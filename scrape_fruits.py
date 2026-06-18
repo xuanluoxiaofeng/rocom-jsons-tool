@@ -19,17 +19,6 @@ def get_soup_from_url(url):
         print(f"错误：下载网页 {url} 时出现问题 - {e}")
         return None
 
-def get_soup_from_file(file_path):
-    """
-    从本地HTML文件获取 BeautifulSoup 对象（用于调试）
-    """
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return BeautifulSoup(f, 'html.parser')
-    except Exception as e:
-        print(f"错误：读取本地文件 {file_path} 时出现问题 - {e}")
-        return None
-
 def scrape_fruits():
     """
     爬取精灵果实图鉴数据
@@ -69,14 +58,10 @@ def scrape_pokemon():
     """
     爬取精灵图鉴数据
     """
-    # 注意：这里为了演示，我们使用本地文件。正式运行时请改回 get_soup_from_url
-    # url = "https://wiki.biligame.com/rocom/精灵图鉴"
-    # print(f"正在抓取精灵数据: {url}")
-    # soup = get_soup_from_url(url)
+    url = "https://wiki.biligame.com/rocom/%E7%B2%BE%E7%81%B5%E5%9B%BE%E9%89%B4"
+    print(f"正在抓取精灵数据: {url}")
+    soup = get_soup_from_url(url)
     
-    print("正在从本地文件 1.html 解析精灵数据...")
-    soup = get_soup_from_file('1.html') # 使用本地文件进行测试
-
     if not soup:
         return []
 
