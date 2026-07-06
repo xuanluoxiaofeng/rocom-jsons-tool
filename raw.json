@@ -1,106 +1,127 @@
 {
-  "code": 0,
-  "message": "成功",
-  "data": {
-    "merchantActivities": [
-      {
-        "_id": "2bzir2vntbcybwxijktkrxbri3dh0ool",
-        "cover_url": "",
-        "created_at": 1783335580576,
-        "created_by": "vocylspu36nerybd1zlv673s07cr6c3t",
-        "description": "",
-        "end_time": 1783353300000,
-        "get_extra_props": [],
-        "get_pets": [],
-        "get_props": [
-          {
-            "_id": "9k66u0h8ijljvmdqbyx8i6mwwhlrbxgj",
-            "end_time": 1783310100000,
-            "icon_url": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
-            "name": "紫莲刚玉",
-            "start_time": 1783296000000
-          },
-          {
-            "_id": "of8qv6flxa0vk0ry7qbye535khyi4m4y",
-            "end_time": 1783324500000,
-            "icon_url": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-            "name": "神奇的蛋",
-            "start_time": 1783310400000
-          },
-          {
-            "_id": "k1z9amiio1j8w7ccss8cmzogs06p5bwg",
-            "end_time": 1783338900000,
-            "icon_url": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
-            "name": "紫莲刚玉",
-            "start_time": 1783324800000
-          },
-          {
-            "_id": "zm036xriflfit6vqkvz8mnx83x71mogk",
-            "end_time": 1783338900000,
-            "icon_url": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png",
-            "name": "黑晶琉璃",
-            "start_time": 1783324800000
-          },
-          {
-            "_id": "uzxrlfxey6l7h4vbh3hvak6mkrvprkpi",
-            "end_time": 1783338900000,
-            "icon_url": "https://patchwiki.biligame.com/images/rocom/thumb/c/c7/4fxef31uslze9psd9375td9zbqtbllv.png/100px-100123.png",
-            "name": "水系粉尘",
-            "start_time": 1783324800000
-          }
-        ],
-        "is_deleted": false,
-        "is_public": true,
-        "is_unlimited": false,
-        "name": "远行商人",
-        "sort": 0,
-        "start_date": "2026-07-06",
-        "start_time": 1783296000000
-      }
-    ],
-    "random_goods": [
-      {
-        "Type": 1,
-        "buy_limit_num": 100,
-        "enable": true,
-        "goods_name": "紫莲刚玉",
-        "id": 100001,
-        "item_id": 100682,
-        "item_num": 1,
-        "origin_price": 1000,
-        "price": 1000,
-        "price_goods_id": 1,
-        "price_goods_type": 2,
-        "weight": 1
-      },
-      {
-        "Type": 1,
-        "buy_limit_num": 100,
-        "enable": true,
-        "goods_name": "黑晶琉璃",
-        "id": 100002,
-        "item_id": 100628,
-        "item_num": 1,
-        "origin_price": 1000,
-        "price": 1000,
-        "price_goods_id": 1,
-        "price_goods_type": 2,
-        "weight": 1
-      },
-      {
-        "Type": 1,
-        "buy_limit_num": 100,
-        "enable": true,
-        "goods_name": "水系粉尘",
-        "id": 100003,
-        "item_id": 100123,
-        "item_num": 1,
-        "origin_price": 500,
-        "price": 500,
-        "price_goods_id": 1,
-        "price_goods_type": 2,
-        "weight": 1
-      }
-    ]
-  }
+  "status": "open",
+  "is_live": true,
+  "current_round": 3,
+  "date": "2026-07-06",
+  "start_time": 1783296000000,
+  "end_time": 1783353300000,
+  "start_time_str": "2026-07-06 08:00:00",
+  "end_time_str": "2026-07-06 23:55:00",
+  "duration": "16小时",
+  "merchant_name": "远行商人",
+  "rounds": [
+    {
+      "round": 1,
+      "start_time": 1783296000000,
+      "end_time": 1783310100000,
+      "start_time_str": "2026-07-06 08:00:00",
+      "end_time_str": "2026-07-06 11:55:00",
+      "duration": "4小时"
+    },
+    {
+      "round": 2,
+      "start_time": 1783310400000,
+      "end_time": 1783324500000,
+      "start_time_str": "2026-07-06 12:00:00",
+      "end_time_str": "2026-07-06 15:55:00",
+      "duration": "4小时"
+    },
+    {
+      "round": 3,
+      "start_time": 1783324800000,
+      "end_time": 1783338900000,
+      "start_time_str": "2026-07-06 16:00:00",
+      "end_time_str": "2026-07-06 19:55:00",
+      "duration": "4小时"
+    },
+    {
+      "round": 4,
+      "start_time": 1783339200000,
+      "end_time": 1783353300000,
+      "start_time_str": "2026-07-06 20:00:00",
+      "end_time_str": "2026-07-06 23:55:00",
+      "duration": "4小时"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "紫莲刚玉",
+      "price": 1000,
+      "price_raw": "1000",
+      "buy_limit": 100,
+      "category": "炼金材料",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+      "item_id": 100682,
+      "rounds": [
+        {
+          "round": 1,
+          "start_time": 1783296000000,
+          "end_time": 1783310100000,
+          "start_time_str": "2026-07-06 08:00:00",
+          "end_time_str": "2026-07-06 11:55:00"
+        },
+        {
+          "round": 3,
+          "start_time": 1783324800000,
+          "end_time": 1783338900000,
+          "start_time_str": "2026-07-06 16:00:00",
+          "end_time_str": "2026-07-06 19:55:00"
+        }
+      ],
+      "available_rounds": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "name": "黑晶琉璃",
+      "price": 1000,
+      "price_raw": "1000",
+      "buy_limit": 100,
+      "category": "炼金材料",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 “我的阿米亚特说这玩意儿太香了，嚼起来有些呛口，像火山灰，有纯正的拉布朗矿山味道。”",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png",
+      "item_id": 100628,
+      "rounds": [
+        {
+          "round": 3,
+          "start_time": 1783324800000,
+          "end_time": 1783338900000,
+          "start_time_str": "2026-07-06 16:00:00",
+          "end_time_str": "2026-07-06 19:55:00"
+        }
+      ],
+      "available_rounds": [
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "name": "水系粉尘",
+      "price": 500,
+      "price_raw": "500",
+      "buy_limit": 100,
+      "category": "炼金材料",
+      "description": "常见的炼金材料，蕴含少量水系魔法，是合成技能石的主要触媒。",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c7/4fxef31uslze9psd9375td9zbqtbllv.png/100px-100123.png",
+      "item_id": 100123,
+      "rounds": [
+        {
+          "round": 3,
+          "start_time": 1783324800000,
+          "end_time": 1783338900000,
+          "start_time_str": "2026-07-06 16:00:00",
+          "end_time_str": "2026-07-06 19:55:00"
+        }
+      ],
+      "available_rounds": [
+        3
+      ]
+    }
+  ],
+  "fetched_at": 1783335904069,
+  "timezone": "Asia/Shanghai"
 }
