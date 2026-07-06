@@ -2,10 +2,8 @@ name: 自动更新图鉴数据
 
 on:
   schedule:
-    - cron: '5 0 * * *'
-    - cron: '5 4 * * *'
-    - cron: '5 8 * * *'
-    - cron: '5 12 * * *'
+    - cron: '5 8-22/2 * * *'
+
   workflow_dispatch:     # 允许手动触发
 
 permissions:
