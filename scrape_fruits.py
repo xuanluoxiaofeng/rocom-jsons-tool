@@ -164,25 +164,24 @@ def transform_to_raw_format(live_data):
         date_str = now.strftime('%Y-%m-%d')
     
     round_times = compute_round_times(date_str)
+    tz = timezone(timedelta(hours=8))
     
-    get_props = []
-    random_goods = []
-    
+    rounds_info = []
     for round_num in [1, 2, 3, 4]:
-        items = live_data.get('rounds', {}).get(str(round_num), [])
         times = round_times[round_num]
-        
-        for item in items:
-            get_props.append({
-                '_id': generate_id(),
-                'end_time': times['end_time'],
-                'icon_url': item.get('image', ''),
-                'name': item.get('name', ''),
-                'start_time': times['start_time']
-            })
+        start_dt = datetime.fromtimestamp(times['start_time'] / 1000, tz=tz)
+        end_dt = datetime.fromtimestamp(times['end_time'] / 1000, tz=tz)
+        rounds_info.append({
+            'round': round_num,
+            'start_time': times['start_time'],
+            'end_time': times['end_time'],
+            'start_time_str': start_dt.strftime('%Y-%m-%d %H:%M:%S'),
+            'end_time_str': end_dt.strftime('%Y-%m-%d %H:%M:%S'),
+            'duration': '4小时'
+        })
     
-    item_id_map = {}
-    id_counter = 100001
+    items = []
+    id_counter = 1
     
     for item in live_data.get('items', []):
         price = int(item.get('price', '0'))
@@ -193,48 +192,53 @@ def transform_to_raw_format(live_data):
         if img_match:
             item_id = img_match.group(1)
         
-        item_id_map[item.get('name', '')] = item_id
+        item_rounds = []
+        for round_num in item.get('rounds', []):
+            times = round_times.get(round_num, {})
+            if times:
+                start_dt = datetime.fromtimestamp(times['start_time'] / 1000, tz=tz)
+                end_dt = datetime.fromtimestamp(times['end_time'] / 1000, tz=tz)
+                item_rounds.append({
+                    'round': round_num,
+                    'start_time': times['start_time'],
+                    'end_time': times['end_time'],
+                    'start_time_str': start_dt.strftime('%Y-%m-%d %H:%M:%S'),
+                    'end_time_str': end_dt.strftime('%Y-%m-%d %H:%M:%S')
+                })
         
-        random_goods.append({
-            'Type': 1,
-            'buy_limit_num': buy_limit,
-            'enable': True,
-            'goods_name': item.get('name', ''),
+        items.append({
             'id': id_counter,
-            'item_id': int(item_id) if item_id else 0,
-            'item_num': 1,
-            'origin_price': price,
+            'name': item.get('name', ''),
             'price': price,
-            'price_goods_id': 1,
-            'price_goods_type': 2,
-            'weight': 1
+            'price_raw': item.get('priceRaw', ''),
+            'buy_limit': buy_limit,
+            'category': item.get('category', ''),
+            'description': item.get('description', ''),
+            'image': item.get('image', ''),
+            'item_id': int(item_id) if item_id else 0,
+            'rounds': item_rounds,
+            'available_rounds': item.get('rounds', [])
         })
         id_counter += 1
     
+    start_dt = datetime.fromtimestamp(round_times[1]['start_time'] / 1000, tz=tz)
+    end_dt = datetime.fromtimestamp(round_times[4]['end_time'] / 1000, tz=tz)
+    
     return {
-        'code': 0,
-        'message': '成功',
-        'data': {
-            'merchantActivities': [{
-                '_id': generate_id(),
-                'cover_url': '',
-                'created_at': int(time.time() * 1000),
-                'created_by': generate_id(),
-                'description': '',
-                'end_time': round_times[4]['end_time'],
-                'get_extra_props': [],
-                'get_pets': [],
-                'get_props': get_props,
-                'is_deleted': False,
-                'is_public': True,
-                'is_unlimited': False,
-                'name': '远行商人',
-                'sort': 0,
-                'start_date': date_str,
-                'start_time': round_times[1]['start_time']
-            }],
-            'random_goods': random_goods
-        }
+        'status': live_data.get('status', 'closed'),
+        'is_live': live_data.get('live', False),
+        'current_round': live_data.get('round'),
+        'date': date_str,
+        'start_time': round_times[1]['start_time'],
+        'end_time': round_times[4]['end_time'],
+        'start_time_str': start_dt.strftime('%Y-%m-%d %H:%M:%S'),
+        'end_time_str': end_dt.strftime('%Y-%m-%d %H:%M:%S'),
+        'duration': '16小时',
+        'merchant_name': '远行商人',
+        'rounds': rounds_info,
+        'items': items,
+        'fetched_at': int(time.time() * 1000),
+        'timezone': 'Asia/Shanghai'
     }
 
 def download_and_transform():
@@ -255,13 +259,13 @@ def download_and_transform():
         print(f'转换后数据已保存到 {RAW_FILE}')
         
         print('\n=== 转换结果 ===')
-        print(f"商人活动: {len(raw_data['data']['merchantActivities'])} 个")
-        print(f"物品属性: {len(raw_data['data']['merchantActivities'][0]['get_props'])} 个")
-        print(f"随机商品: {len(raw_data['data']['random_goods'])} 个")
-        start_time = datetime.fromtimestamp(raw_data['data']['merchantActivities'][0]['start_time'] / 1000, tz=timezone(timedelta(hours=8)))
-        end_time = datetime.fromtimestamp(raw_data['data']['merchantActivities'][0]['end_time'] / 1000, tz=timezone(timedelta(hours=8)))
-        print(f"开始时间: {start_time.strftime('%Y/%m/%d %H:%M:%S')}")
-        print(f"结束时间: {end_time.strftime('%Y/%m/%d %H:%M:%S')}")
+        print(f"状态: {raw_data['status']}")
+        print(f"当前轮次: {raw_data['current_round']}")
+        print(f"日期: {raw_data['date']}")
+        print(f"开始时间: {raw_data['start_time_str']}")
+        print(f"结束时间: {raw_data['end_time_str']}")
+        print(f"物品数量: {len(raw_data['items'])} 个")
+        print(f"轮次数量: {len(raw_data['rounds'])} 个")
         
     except Exception as e:
         print(f'处理失败: {e}')
