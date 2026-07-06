@@ -2,7 +2,10 @@ name: 自动更新图鉴数据
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天 UTC 时间 0点运行 (北京时间早上8点)
+    - cron: '5 0 * * *'
+    - cron: '5 4 * * *'
+    - cron: '5 8 * * *'
+    - cron: '5 12 * * *'
   workflow_dispatch:     # 允许手动触发
 
 permissions:
@@ -34,7 +37,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
           # 添加两个生成的文件
-          git add fruits.json pokemon.json
+          git add fruits.json pokemon.json live.json raw.json
           
           # 检查是否有变化
           if git diff --staged --quiet; then
