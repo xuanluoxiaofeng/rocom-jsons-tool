@@ -168,6 +168,7 @@ def transform_to_raw_format(live_data):
     
     result = live_data.copy()
     
+    all_items = []
     for round_num in [1, 2, 3, 4]:
         items = result.get('rounds', {}).get(str(round_num), [])
         times = round_times[round_num]
@@ -180,28 +181,29 @@ def transform_to_raw_format(live_data):
             item['end_time'] = times['end_time']
             item['start_time_str'] = start_dt.strftime('%Y-%m-%d %H:%M:%S')
             item['end_time_str'] = end_dt.strftime('%Y-%m-%d %H:%M:%S')
-    
-    for item in result.get('items', []):
-        if item.get('rounds'):
-            first_round = item['rounds'][0]
-            times = round_times[first_round]
-            
-            start_dt = datetime.fromtimestamp(times['start_time'] / 1000, tz=tz)
-            end_dt = datetime.fromtimestamp(round_times[4]['end_time'] / 1000, tz=tz)
-            
-            item['start_time'] = times['start_time']
-            item['end_time'] = round_times[4]['end_time']
-            item['start_time_str'] = start_dt.strftime('%Y-%m-%d %H:%M:%S')
-            item['end_time_str'] = end_dt.strftime('%Y-%m-%d %H:%M:%S')
+            all_items.append(item)
     
     current_round = result.get('round')
     if current_round and result.get('rounds', {}).get(str(current_round)):
-        result['current_items'] = result['rounds'][str(current_round)]
+        current_items_data = result['rounds'][str(current_round)]
+        times = round_times[current_round]
+        start_dt = datetime.fromtimestamp(times['start_time'] / 1000, tz=tz)
+        end_dt = datetime.fromtimestamp(times['end_time'] / 1000, tz=tz)
+        for item in current_items_data:
+            item['start_time'] = times['start_time']
+            item['end_time'] = times['end_time']
+            item['start_time_str'] = start_dt.strftime('%Y-%m-%d %H:%M:%S')
+            item['end_time_str'] = end_dt.strftime('%Y-%m-%d %H:%M:%S')
+        result['current_items'] = current_items_data
     else:
         result['current_items'] = []
     
+    if 'items' in result:
+        del result['items']
     if 'rounds' in result:
         del result['rounds']
+    
+    result['items'] = all_items
     
     return result
 
