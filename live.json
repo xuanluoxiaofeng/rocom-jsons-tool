@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
+  "fetchedAt": "2026-07-06T10:59:39.337Z",
+  "timezone": "Asia/Shanghai",
+  "status": "open",
+  "round": 3,
+  "startedAtBeijing": "2026-07-06 16:00:00",
+  "nextRefreshBeijing": "2026-07-06 20:00:00",
+  "durationHours": 4,
+  "merchantPosition": "",
+  "items": [
+    {
+      "name": "紫莲刚玉",
+      "price": "1000",
+      "priceRaw": "1000",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+      "category": "炼金材料",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
+      "rounds": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "黑晶琉璃",
+      "price": "1000",
+      "priceRaw": "1000",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png",
+      "category": "炼金材料",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 “我的阿米亚特说这玩意儿太香了，嚼起来有些呛口，像火山灰，有纯正的拉布朗矿山味道。”",
+      "rounds": [
+        3
+      ]
+    },
+    {
+      "name": "水系粉尘",
+      "price": "500",
+      "priceRaw": "500",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c7/4fxef31uslze9psd9375td9zbqtbllv.png/100px-100123.png",
+      "category": "炼金材料",
+      "description": "常见的炼金材料，蕴含少量水系魔法，是合成技能石的主要触媒。",
+      "rounds": [
+        3
+      ]
+    }
+  ],
+  "rounds": {
+    "1": [
+      {
+        "name": "紫莲刚玉",
+        "price": "1000",
+        "priceRaw": "1000",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+        "category": "炼金材料",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
+        "rounds": [
+          1,
+          3
+        ]
+      }
+    ],
+    "2": [
+      {
+        "name": "神奇的蛋",
+        "price": "36000",
+        "priceRaw": "36000",
+        "limit": "5",
+        "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
+        "category": "精灵蛋",
+        "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
+        "rounds": [
+          2
+        ]
+      }
+    ],
+    "3": [
+      {
+        "name": "紫莲刚玉",
+        "price": "1000",
+        "priceRaw": "1000",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+        "category": "炼金材料",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
+        "rounds": [
+          1,
+          3
+        ]
+      },
+      {
+        "name": "黑晶琉璃",
+        "price": "1000",
+        "priceRaw": "1000",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png",
+        "category": "炼金材料",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 “我的阿米亚特说这玩意儿太香了，嚼起来有些呛口，像火山灰，有纯正的拉布朗矿山味道。”",
+        "rounds": [
+          3
+        ]
+      },
+      {
+        "name": "水系粉尘",
+        "price": "500",
+        "priceRaw": "500",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c7/4fxef31uslze9psd9375td9zbqtbllv.png/100px-100123.png",
+        "category": "炼金材料",
+        "description": "常见的炼金材料，蕴含少量水系魔法，是合成技能石的主要触媒。",
+        "rounds": [
+          3
+        ]
+      }
+    ],
+    "4": []
+  },
+  "live": true
+}
