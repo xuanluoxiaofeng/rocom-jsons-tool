@@ -1,11 +1,11 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-07T07:41:14.579Z",
+  "fetchedAt": "2026-07-07T11:09:17.349Z",
   "timezone": "Asia/Shanghai",
   "status": "open",
-  "round": 2,
-  "startedAtBeijing": "2026-07-07 12:00:00",
-  "nextRefreshBeijing": "2026-07-07 16:00:00",
+  "round": 3,
+  "startedAtBeijing": "2026-07-07 16:00:00",
+  "nextRefreshBeijing": "2026-07-07 20:00:00",
   "durationHours": 4,
   "merchantPosition": "",
   "live": true,
@@ -20,12 +20,13 @@
       "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
       "rounds": [
         1,
-        2
+        2,
+        3
       ],
-      "start_time": 1783396800000,
-      "end_time": 1783410900000,
-      "start_time_str": "2026-07-07 12:00:00",
-      "end_time_str": "2026-07-07 15:55:00"
+      "start_time": 1783411200000,
+      "end_time": 1783425300000,
+      "start_time_str": "2026-07-07 16:00:00",
+      "end_time_str": "2026-07-07 19:55:00"
     },
     {
       "name": "神奇的蛋",
@@ -36,12 +37,13 @@
       "category": "精灵蛋",
       "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
       "rounds": [
-        2
+        2,
+        3
       ],
-      "start_time": 1783396800000,
-      "end_time": 1783410900000,
-      "start_time_str": "2026-07-07 12:00:00",
-      "end_time_str": "2026-07-07 15:55:00"
+      "start_time": 1783411200000,
+      "end_time": 1783425300000,
+      "start_time_str": "2026-07-07 16:00:00",
+      "end_time_str": "2026-07-07 19:55:00"
     }
   ],
   "items": [
@@ -71,7 +73,8 @@
       "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
       "rounds": [
         1,
-        2
+        2,
+        3
       ],
       "start_time": 1783382400000,
       "end_time": 1783396500000,
@@ -88,7 +91,8 @@
       "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
       "rounds": [
         1,
-        2
+        2,
+        3
       ],
       "start_time": 1783396800000,
       "end_time": 1783410900000,
@@ -104,12 +108,48 @@
       "category": "精灵蛋",
       "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
       "rounds": [
-        2
+        2,
+        3
       ],
       "start_time": 1783396800000,
       "end_time": 1783410900000,
       "start_time_str": "2026-07-07 12:00:00",
       "end_time_str": "2026-07-07 15:55:00"
+    },
+    {
+      "name": "魔力果",
+      "price": "6000",
+      "priceRaw": "6000",
+      "limit": "20",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
+      "category": "精灵喂养材料",
+      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
+      "rounds": [
+        1,
+        2,
+        3
+      ],
+      "start_time": 1783411200000,
+      "end_time": 1783425300000,
+      "start_time_str": "2026-07-07 16:00:00",
+      "end_time_str": "2026-07-07 19:55:00"
+    },
+    {
+      "name": "神奇的蛋",
+      "price": "36000",
+      "priceRaw": "36000",
+      "limit": "5",
+      "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
+      "category": "精灵蛋",
+      "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
+      "rounds": [
+        2,
+        3
+      ],
+      "start_time": 1783411200000,
+      "end_time": 1783425300000,
+      "start_time_str": "2026-07-07 16:00:00",
+      "end_time_str": "2026-07-07 19:55:00"
     }
   ]
 }
