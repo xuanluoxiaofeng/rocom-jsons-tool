@@ -1,33 +1,16 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-07T14:39:38.887Z",
+  "fetchedAt": "2026-07-08T02:51:25.273Z",
   "timezone": "Asia/Shanghai",
   "status": "open",
-  "round": 4,
-  "startedAtBeijing": "2026-07-07 20:00:00",
-  "nextRefreshBeijing": "2026-07-08 00:00:00",
+  "round": 1,
+  "startedAtBeijing": "2026-07-08 08:00:00",
+  "nextRefreshBeijing": "2026-07-08 12:00:00",
   "durationHours": 4,
   "merchantPosition": "",
   "live": true,
   "current_items": [
     {
-      "name": "国王球",
-      "price": "160000",
-      "priceRaw": "16w",
-      "limit": "3",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png",
-      "category": "咕噜球",
-      "description": "昂贵且好用的咕噜球，能十分轻易地捕捉精灵，并能提升精灵的天分。 曾经专供贵族使用，制作方法不明。",
-      "rounds": [
-        1,
-        4
-      ],
-      "start_time": 1783425600000,
-      "end_time": 1783439700000,
-      "start_time_str": "2026-07-07 20:00:00",
-      "end_time_str": "2026-07-07 23:55:00"
-    },
-    {
       "name": "魔力果",
       "price": "6000",
       "priceRaw": "6000",
@@ -36,54 +19,16 @@
       "category": "精灵喂养材料",
       "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
       "rounds": [
-        1,
-        2,
-        3,
-        4
+        1
       ],
-      "start_time": 1783425600000,
-      "end_time": 1783439700000,
-      "start_time_str": "2026-07-07 20:00:00",
-      "end_time_str": "2026-07-07 23:55:00"
-    },
-    {
-      "name": "神奇的蛋",
-      "price": "36000",
-      "priceRaw": "36000",
-      "limit": "5",
-      "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-      "category": "精灵蛋",
-      "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
-      "rounds": [
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783425600000,
-      "end_time": 1783439700000,
-      "start_time_str": "2026-07-07 20:00:00",
-      "end_time_str": "2026-07-07 23:55:00"
+      "start_time": 1783468800000,
+      "end_time": 1783482900000,
+      "start_time_str": "2026-07-08 08:00:00",
+      "end_time_str": "2026-07-08 11:55:00"
     }
   ],
   "items": [
     {
-      "name": "国王球",
-      "price": "160000",
-      "priceRaw": "16w",
-      "limit": "3",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png",
-      "category": "咕噜球",
-      "description": "昂贵且好用的咕噜球，能十分轻易地捕捉精灵，并能提升精灵的天分。 曾经专供贵族使用，制作方法不明。",
-      "rounds": [
-        1,
-        4
-      ],
-      "start_time": 1783382400000,
-      "end_time": 1783396500000,
-      "start_time_str": "2026-07-07 08:00:00",
-      "end_time_str": "2026-07-07 11:55:00"
-    },
-    {
       "name": "魔力果",
       "price": "6000",
       "priceRaw": "6000",
@@ -92,143 +37,12 @@
       "category": "精灵喂养材料",
       "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
       "rounds": [
-        1,
-        2,
-        3,
-        4
+        1
       ],
-      "start_time": 1783382400000,
-      "end_time": 1783396500000,
-      "start_time_str": "2026-07-07 08:00:00",
-      "end_time_str": "2026-07-07 11:55:00"
-    },
-    {
-      "name": "魔力果",
-      "price": "6000",
-      "priceRaw": "6000",
-      "limit": "20",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-      "category": "精灵喂养材料",
-      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-      "rounds": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783396800000,
-      "end_time": 1783410900000,
-      "start_time_str": "2026-07-07 12:00:00",
-      "end_time_str": "2026-07-07 15:55:00"
-    },
-    {
-      "name": "神奇的蛋",
-      "price": "36000",
-      "priceRaw": "36000",
-      "limit": "5",
-      "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-      "category": "精灵蛋",
-      "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
-      "rounds": [
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783396800000,
-      "end_time": 1783410900000,
-      "start_time_str": "2026-07-07 12:00:00",
-      "end_time_str": "2026-07-07 15:55:00"
-    },
-    {
-      "name": "魔力果",
-      "price": "6000",
-      "priceRaw": "6000",
-      "limit": "20",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-      "category": "精灵喂养材料",
-      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-      "rounds": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783411200000,
-      "end_time": 1783425300000,
-      "start_time_str": "2026-07-07 16:00:00",
-      "end_time_str": "2026-07-07 19:55:00"
-    },
-    {
-      "name": "神奇的蛋",
-      "price": "36000",
-      "priceRaw": "36000",
-      "limit": "5",
-      "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-      "category": "精灵蛋",
-      "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
-      "rounds": [
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783411200000,
-      "end_time": 1783425300000,
-      "start_time_str": "2026-07-07 16:00:00",
-      "end_time_str": "2026-07-07 19:55:00"
-    },
-    {
-      "name": "国王球",
-      "price": "160000",
-      "priceRaw": "16w",
-      "limit": "3",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png",
-      "category": "咕噜球",
-      "description": "昂贵且好用的咕噜球，能十分轻易地捕捉精灵，并能提升精灵的天分。 曾经专供贵族使用，制作方法不明。",
-      "rounds": [
-        1,
-        4
-      ],
-      "start_time": 1783425600000,
-      "end_time": 1783439700000,
-      "start_time_str": "2026-07-07 20:00:00",
-      "end_time_str": "2026-07-07 23:55:00"
-    },
-    {
-      "name": "魔力果",
-      "price": "6000",
-      "priceRaw": "6000",
-      "limit": "20",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-      "category": "精灵喂养材料",
-      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-      "rounds": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783425600000,
-      "end_time": 1783439700000,
-      "start_time_str": "2026-07-07 20:00:00",
-      "end_time_str": "2026-07-07 23:55:00"
-    },
-    {
-      "name": "神奇的蛋",
-      "price": "36000",
-      "priceRaw": "36000",
-      "limit": "5",
-      "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-      "category": "精灵蛋",
-      "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
-      "rounds": [
-        2,
-        3,
-        4
-      ],
-      "start_time": 1783425600000,
-      "end_time": 1783439700000,
-      "start_time_str": "2026-07-07 20:00:00",
-      "end_time_str": "2026-07-07 23:55:00"
+      "start_time": 1783468800000,
+      "end_time": 1783482900000,
+      "start_time_str": "2026-07-08 08:00:00",
+      "end_time_str": "2026-07-08 11:55:00"
     }
   ]
 }
