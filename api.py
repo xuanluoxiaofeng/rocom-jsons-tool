@@ -125,6 +125,7 @@ def scrape_pokemon():
 
         static_url = ""
         shiny_static_url = ""
+        pet_num = 0
         if handbook_id and handbook_id.startswith("handbook_"):
             num_str = handbook_id.replace("handbook_", "")
             try:
@@ -137,7 +138,7 @@ def scrape_pokemon():
                 shiny_static_url = f"{IMAGE_BASE_URL}NO.{str(pet_num).zfill(3)}_{clean_name}_shiny.png"
 
         pokemon_data.append({
-            "id": f"pet_{pet_id}",
+            "id": str(pet_num).zfill(3),
             "name": name,
             "rank": "",
             "image_url": static_url,
@@ -276,6 +277,7 @@ def main():
     time.sleep(1)
     pokemon = scrape_pokemon()
     if pokemon:
+        pokemon.sort(key=lambda x: int(x['id']) if x['id'].isdigit() else 0)
         with open('pokemon.json', 'w', encoding='utf-8') as f:
             json.dump(pokemon, f, ensure_ascii=False, indent=2)
         print("精灵数据已保存到 pokemon.json")
