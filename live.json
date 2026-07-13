@@ -1,86 +1,89 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-12T21:02:04.459Z",
+  "fetchedAt": "2026-07-13T11:24:05.769Z",
   "timezone": "Asia/Shanghai",
-  "status": "closed",
-  "round": null,
-  "startedAtBeijing": null,
-  "nextRefreshBeijing": "2026-07-13 08:00:00",
-  "durationHours": 0,
+  "status": "open",
+  "round": 3,
+  "startedAtBeijing": "2026-07-13 16:00:00",
+  "nextRefreshBeijing": "2026-07-13 20:00:00",
+  "durationHours": 4,
   "merchantPosition": "",
-  "items": [],
+  "items": [
+    {
+      "name": "武系血脉秘药",
+      "price": "160000",
+      "priceRaw": "16w",
+      "limit": "3",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/6/60/07uvni7t86lah2a9c219z9x8smkdnzj.png/100px-Xuemai_wu.png",
+      "category": "血脉修改道具",
+      "description": "能唤醒血脉力量的远古秘药，使精灵获得武系血脉。 “一段失落的秘密将被重拾。”",
+      "rounds": [
+        3
+      ]
+    },
+    {
+      "name": "萌系粉尘",
+      "price": "500",
+      "priceRaw": "500",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/26/58llleh28pa33kxom2cub80nnf0y9zd.png/100px-100137.png",
+      "category": "炼金材料",
+      "description": "常见的炼金材料，蕴含少量萌系魔法，是合成技能石的主要触媒。",
+      "rounds": [
+        3
+      ]
+    }
+  ],
   "rounds": {
     "1": [
       {
-        "name": "残缺魔镜",
-        "price": "480000",
-        "priceRaw": "48w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/10/nssw03fprximwkgzjqdaq8r8pq3q3le.png/100px-100716.png",
-        "category": "性格影响修改道具",
-        "description": "可以修正性格带来的负面影响。 “我不知道，我将消除自己。”",
+        "name": "紫莲刚玉",
+        "price": "1000",
+        "priceRaw": "1000",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+        "category": "炼金材料",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
         "rounds": [
-          1,
-          2,
-          3,
-          4
+          1
         ]
       },
       {
-        "name": "适格钥匙",
-        "price": "320000",
-        "priceRaw": "32w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/11/6l0tqz9gytrn8r10gk5bgcj4rxnfx57.png/100px-100714.png",
-        "category": "个体资质属性修改道具",
-        "description": "可以修改精灵的个体资质种类，或激活一条初始值为8的新资质。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "能力钥匙",
-        "price": "160000",
-        "priceRaw": "16w",
-        "limit": "6",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2d/749ek9zbh79fvll7f5vtpxa33dz3mze.png/100px-100009.png",
-        "category": "个体资质增强道具",
-        "description": "对初始个体资质小于10的精灵使用，使该项个体资质的初始值增加1。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "绝缘球",
-        "price": "3000",
-        "priceRaw": "3000",
-        "limit": "200",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/0/0d/k1hb59umk1sisjh8cev5bvyzvavezvb.png/100px-Img_jueyuanqiu.png",
-        "category": "特制咕噜球",
-        "description": "更适合用来捕捉电系、毒系精灵。 蹦蹦跳跳的球，有着弹性十足的手感。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "恶系血脉秘药",
+        "name": "地系血脉秘药",
         "price": "160000",
         "priceRaw": "16w",
         "limit": "3",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/e/ee/sm6n1f4ng52m6fvbr6lf2yekhw3q1a5.png/100px-Xuemai_emo.png",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/17/808i7ggttfttqexttmvtmdknqszrb7t.png/100px-Xuemai_yanshi.png",
         "category": "血脉修改道具",
-        "description": "能唤醒血脉力量的远古秘药，使精灵获得恶系血脉。 “一段失落的秘密将被重拾。”",
+        "description": "能唤醒血脉力量的远古秘药，使精灵获得地系血脉。 “一段失落的秘密将被重拾。”",
         "rounds": [
           1
+        ]
+      },
+      {
+        "name": "萌系粉尘",
+        "price": "500",
+        "priceRaw": "500",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/26/58llleh28pa33kxom2cub80nnf0y9zd.png/100px-100137.png",
+        "category": "炼金材料",
+        "description": "常见的炼金材料，蕴含少量萌系魔法，是合成技能石的主要触媒。",
+        "rounds": [
+          1
+        ]
+      }
+    ],
+    "2": [
+      {
+        "name": "黑晶琉璃",
+        "price": "1000",
+        "priceRaw": "1000",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png",
+        "category": "炼金材料",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 “我的阿米亚特说这玩意儿太香了，嚼起来有些呛口，像火山灰，有纯正的拉布朗矿山味道。”",
+        "rounds": [
+          2
         ]
       },
       {
@@ -92,244 +95,37 @@
         "category": "精灵喂养材料",
         "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
         "rounds": [
-          1
-        ]
-      }
-    ],
-    "2": [
-      {
-        "name": "残缺魔镜",
-        "price": "480000",
-        "priceRaw": "48w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/10/nssw03fprximwkgzjqdaq8r8pq3q3le.png/100px-100716.png",
-        "category": "性格影响修改道具",
-        "description": "可以修正性格带来的负面影响。 “我不知道，我将消除自己。”",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "适格钥匙",
-        "price": "320000",
-        "priceRaw": "32w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/11/6l0tqz9gytrn8r10gk5bgcj4rxnfx57.png/100px-100714.png",
-        "category": "个体资质属性修改道具",
-        "description": "可以修改精灵的个体资质种类，或激活一条初始值为8的新资质。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "能力钥匙",
-        "price": "160000",
-        "priceRaw": "16w",
-        "limit": "6",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2d/749ek9zbh79fvll7f5vtpxa33dz3mze.png/100px-100009.png",
-        "category": "个体资质增强道具",
-        "description": "对初始个体资质小于10的精灵使用，使该项个体资质的初始值增加1。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "绝缘球",
-        "price": "3000",
-        "priceRaw": "3000",
-        "limit": "200",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/0/0d/k1hb59umk1sisjh8cev5bvyzvavezvb.png/100px-Img_jueyuanqiu.png",
-        "category": "特制咕噜球",
-        "description": "更适合用来捕捉电系、毒系精灵。 蹦蹦跳跳的球，有着弹性十足的手感。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "黄石榴石",
-        "price": "1000",
-        "priceRaw": "1000",
-        "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png",
-        "category": "炼金材料",
-        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 特殊的晶体排列解构，精灵打喷嚏可能会令这种晶体发生爆炸。",
-        "rounds": [
-          2
-        ]
-      },
-      {
-        "name": "蓝晶碧玺",
-        "price": "1000",
-        "priceRaw": "1000",
-        "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png",
-        "category": "炼金材料",
-        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 某些晶石蜗会产出珍贵的粉蓝色碧玺，为此商人翻着花样研究晶石蜗的食谱喜好。",
-        "rounds": [
-          2
-        ]
-      },
-      {
-        "name": "武系粉尘",
-        "price": "500",
-        "priceRaw": "500",
-        "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/23/su3uy9wfjwvx3ifjaia3l88j2kjr5mg.png/100px-100135.png",
-        "category": "炼金材料",
-        "description": "常见的炼金材料，蕴含少量武系魔法，是合成技能石的主要触媒。",
-        "rounds": [
           2
         ]
       }
     ],
     "3": [
       {
-        "name": "残缺魔镜",
-        "price": "480000",
-        "priceRaw": "48w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/10/nssw03fprximwkgzjqdaq8r8pq3q3le.png/100px-100716.png",
-        "category": "性格影响修改道具",
-        "description": "可以修正性格带来的负面影响。 “我不知道，我将消除自己。”",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "适格钥匙",
-        "price": "320000",
-        "priceRaw": "32w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/11/6l0tqz9gytrn8r10gk5bgcj4rxnfx57.png/100px-100714.png",
-        "category": "个体资质属性修改道具",
-        "description": "可以修改精灵的个体资质种类，或激活一条初始值为8的新资质。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "能力钥匙",
+        "name": "武系血脉秘药",
         "price": "160000",
         "priceRaw": "16w",
-        "limit": "6",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2d/749ek9zbh79fvll7f5vtpxa33dz3mze.png/100px-100009.png",
-        "category": "个体资质增强道具",
-        "description": "对初始个体资质小于10的精灵使用，使该项个体资质的初始值增加1。",
+        "limit": "3",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/6/60/07uvni7t86lah2a9c219z9x8smkdnzj.png/100px-Xuemai_wu.png",
+        "category": "血脉修改道具",
+        "description": "能唤醒血脉力量的远古秘药，使精灵获得武系血脉。 “一段失落的秘密将被重拾。”",
         "rounds": [
-          1,
-          2,
-          3,
-          4
+          3
         ]
       },
       {
-        "name": "绝缘球",
-        "price": "3000",
-        "priceRaw": "3000",
-        "limit": "200",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/0/0d/k1hb59umk1sisjh8cev5bvyzvavezvb.png/100px-Img_jueyuanqiu.png",
-        "category": "特制咕噜球",
-        "description": "更适合用来捕捉电系、毒系精灵。 蹦蹦跳跳的球，有着弹性十足的手感。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "紫莲刚玉",
-        "price": "1000",
-        "priceRaw": "1000",
+        "name": "萌系粉尘",
+        "price": "500",
+        "priceRaw": "500",
         "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/26/58llleh28pa33kxom2cub80nnf0y9zd.png/100px-100137.png",
         "category": "炼金材料",
-        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
+        "description": "常见的炼金材料，蕴含少量萌系魔法，是合成技能石的主要触媒。",
         "rounds": [
           3
         ]
       }
     ],
-    "4": [
-      {
-        "name": "残缺魔镜",
-        "price": "480000",
-        "priceRaw": "48w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/10/nssw03fprximwkgzjqdaq8r8pq3q3le.png/100px-100716.png",
-        "category": "性格影响修改道具",
-        "description": "可以修正性格带来的负面影响。 “我不知道，我将消除自己。”",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "适格钥匙",
-        "price": "320000",
-        "priceRaw": "32w",
-        "limit": "1",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/11/6l0tqz9gytrn8r10gk5bgcj4rxnfx57.png/100px-100714.png",
-        "category": "个体资质属性修改道具",
-        "description": "可以修改精灵的个体资质种类，或激活一条初始值为8的新资质。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "能力钥匙",
-        "price": "160000",
-        "priceRaw": "16w",
-        "limit": "6",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2d/749ek9zbh79fvll7f5vtpxa33dz3mze.png/100px-100009.png",
-        "category": "个体资质增强道具",
-        "description": "对初始个体资质小于10的精灵使用，使该项个体资质的初始值增加1。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "name": "绝缘球",
-        "price": "3000",
-        "priceRaw": "3000",
-        "limit": "200",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/0/0d/k1hb59umk1sisjh8cev5bvyzvavezvb.png/100px-Img_jueyuanqiu.png",
-        "category": "特制咕噜球",
-        "description": "更适合用来捕捉电系、毒系精灵。 蹦蹦跳跳的球，有着弹性十足的手感。",
-        "rounds": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    ]
+    "4": []
   },
   "live": true
 }
