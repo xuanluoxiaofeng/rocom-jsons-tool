@@ -1,32 +1,15 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-13T14:54:04.386Z",
+  "fetchedAt": "2026-07-13T18:02:26.864Z",
   "timezone": "Asia/Shanghai",
-  "status": "open",
-  "round": 4,
-  "startedAtBeijing": "2026-07-13 20:00:00",
-  "nextRefreshBeijing": "2026-07-14 00:00:00",
-  "durationHours": 4,
+  "status": "closed",
+  "round": null,
+  "startedAtBeijing": null,
+  "nextRefreshBeijing": "2026-07-14 08:00:00",
+  "durationHours": 0,
   "merchantPosition": "",
   "live": true,
-  "current_items": [
-    {
-      "name": "魔力果",
-      "price": "6000",
-      "priceRaw": "6000",
-      "limit": "20",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-      "category": "精灵喂养材料",
-      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-      "rounds": [
-        4
-      ],
-      "start_time": 1783944000000,
-      "end_time": 1783958100000,
-      "start_time_str": "2026-07-13 20:00:00",
-      "end_time_str": "2026-07-13 23:55:00"
-    }
-  ],
+  "current_items": [],
   "items": [
     {
       "name": "紫莲刚玉",
@@ -39,10 +22,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1783900800000,
-      "end_time": 1783914900000,
-      "start_time_str": "2026-07-13 08:00:00",
-      "end_time_str": "2026-07-13 11:55:00"
+      "start_time": 1783987200000,
+      "end_time": 1784001300000,
+      "start_time_str": "2026-07-14 08:00:00",
+      "end_time_str": "2026-07-14 11:55:00"
     },
     {
       "name": "地系血脉秘药",
@@ -55,10 +38,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1783900800000,
-      "end_time": 1783914900000,
-      "start_time_str": "2026-07-13 08:00:00",
-      "end_time_str": "2026-07-13 11:55:00"
+      "start_time": 1783987200000,
+      "end_time": 1784001300000,
+      "start_time_str": "2026-07-14 08:00:00",
+      "end_time_str": "2026-07-14 11:55:00"
     },
     {
       "name": "萌系粉尘",
@@ -71,10 +54,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1783900800000,
-      "end_time": 1783914900000,
-      "start_time_str": "2026-07-13 08:00:00",
-      "end_time_str": "2026-07-13 11:55:00"
+      "start_time": 1783987200000,
+      "end_time": 1784001300000,
+      "start_time_str": "2026-07-14 08:00:00",
+      "end_time_str": "2026-07-14 11:55:00"
     },
     {
       "name": "黑晶琉璃",
@@ -87,10 +70,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1783915200000,
-      "end_time": 1783929300000,
-      "start_time_str": "2026-07-13 12:00:00",
-      "end_time_str": "2026-07-13 15:55:00"
+      "start_time": 1784001600000,
+      "end_time": 1784015700000,
+      "start_time_str": "2026-07-14 12:00:00",
+      "end_time_str": "2026-07-14 15:55:00"
     },
     {
       "name": "魔力果",
@@ -103,10 +86,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1783915200000,
-      "end_time": 1783929300000,
-      "start_time_str": "2026-07-13 12:00:00",
-      "end_time_str": "2026-07-13 15:55:00"
+      "start_time": 1784001600000,
+      "end_time": 1784015700000,
+      "start_time_str": "2026-07-14 12:00:00",
+      "end_time_str": "2026-07-14 15:55:00"
     },
     {
       "name": "武系血脉秘药",
@@ -119,10 +102,10 @@
       "rounds": [
         3
       ],
-      "start_time": 1783929600000,
-      "end_time": 1783943700000,
-      "start_time_str": "2026-07-13 16:00:00",
-      "end_time_str": "2026-07-13 19:55:00"
+      "start_time": 1784016000000,
+      "end_time": 1784030100000,
+      "start_time_str": "2026-07-14 16:00:00",
+      "end_time_str": "2026-07-14 19:55:00"
     },
     {
       "name": "萌系粉尘",
@@ -135,10 +118,10 @@
       "rounds": [
         3
       ],
-      "start_time": 1783929600000,
-      "end_time": 1783943700000,
-      "start_time_str": "2026-07-13 16:00:00",
-      "end_time_str": "2026-07-13 19:55:00"
+      "start_time": 1784016000000,
+      "end_time": 1784030100000,
+      "start_time_str": "2026-07-14 16:00:00",
+      "end_time_str": "2026-07-14 19:55:00"
     },
     {
       "name": "魔力果",
@@ -151,10 +134,10 @@
       "rounds": [
         4
       ],
-      "start_time": 1783944000000,
-      "end_time": 1783958100000,
-      "start_time_str": "2026-07-13 20:00:00",
-      "end_time_str": "2026-07-13 23:55:00"
+      "start_time": 1784030400000,
+      "end_time": 1784044500000,
+      "start_time_str": "2026-07-14 20:00:00",
+      "end_time_str": "2026-07-14 23:55:00"
     }
   ]
 }

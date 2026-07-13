@@ -1,27 +1,14 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-13T14:54:04.386Z",
+  "fetchedAt": "2026-07-13T18:02:26.864Z",
   "timezone": "Asia/Shanghai",
-  "status": "open",
-  "round": 4,
-  "startedAtBeijing": "2026-07-13 20:00:00",
-  "nextRefreshBeijing": "2026-07-14 00:00:00",
-  "durationHours": 4,
+  "status": "closed",
+  "round": null,
+  "startedAtBeijing": null,
+  "nextRefreshBeijing": "2026-07-14 08:00:00",
+  "durationHours": 0,
   "merchantPosition": "",
-  "items": [
-    {
-      "name": "魔力果",
-      "price": "6000",
-      "priceRaw": "6000",
-      "limit": "20",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-      "category": "精灵喂养材料",
-      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-      "rounds": [
-        4
-      ]
-    }
-  ],
+  "items": [],
   "rounds": {
     "1": [
       {
