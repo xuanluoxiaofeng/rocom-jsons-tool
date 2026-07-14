@@ -1,64 +1,15 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-14T14:05:32.452Z",
+  "fetchedAt": "2026-07-14T17:23:40.077Z",
   "timezone": "Asia/Shanghai",
-  "status": "open",
-  "round": 4,
-  "startedAtBeijing": "2026-07-14 20:00:00",
-  "nextRefreshBeijing": "2026-07-15 00:00:00",
-  "durationHours": 4,
+  "status": "closed",
+  "round": null,
+  "startedAtBeijing": null,
+  "nextRefreshBeijing": "2026-07-15 08:00:00",
+  "durationHours": 0,
   "merchantPosition": "",
   "live": true,
-  "current_items": [
-    {
-      "name": "蓝晶碧玺",
-      "price": "1000",
-      "priceRaw": "1000",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png",
-      "category": "炼金材料",
-      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 某些晶石蜗会产出珍贵的粉蓝色碧玺，为此商人翻着花样研究晶石蜗的食谱喜好。",
-      "rounds": [
-        4
-      ],
-      "start_time": 1784030400000,
-      "end_time": 1784044500000,
-      "start_time_str": "2026-07-14 20:00:00",
-      "end_time_str": "2026-07-14 23:55:00"
-    },
-    {
-      "name": "紫莲刚玉",
-      "price": "1000",
-      "priceRaw": "1000",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
-      "category": "炼金材料",
-      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
-      "rounds": [
-        4
-      ],
-      "start_time": 1784030400000,
-      "end_time": 1784044500000,
-      "start_time_str": "2026-07-14 20:00:00",
-      "end_time_str": "2026-07-14 23:55:00"
-    },
-    {
-      "name": "魔力果",
-      "price": "6000",
-      "priceRaw": "6000",
-      "limit": "20",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-      "category": "精灵喂养材料",
-      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-      "rounds": [
-        4
-      ],
-      "start_time": 1784030400000,
-      "end_time": 1784044500000,
-      "start_time_str": "2026-07-14 20:00:00",
-      "end_time_str": "2026-07-14 23:55:00"
-    }
-  ],
+  "current_items": [],
   "items": [
     {
       "name": "紫莲刚玉",
@@ -71,10 +22,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1783987200000,
-      "end_time": 1784001300000,
-      "start_time_str": "2026-07-14 08:00:00",
-      "end_time_str": "2026-07-14 11:55:00"
+      "start_time": 1784073600000,
+      "end_time": 1784087700000,
+      "start_time_str": "2026-07-15 08:00:00",
+      "end_time_str": "2026-07-15 11:55:00"
     },
     {
       "name": "魔力果",
@@ -87,10 +38,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1783987200000,
-      "end_time": 1784001300000,
-      "start_time_str": "2026-07-14 08:00:00",
-      "end_time_str": "2026-07-14 11:55:00"
+      "start_time": 1784073600000,
+      "end_time": 1784087700000,
+      "start_time_str": "2026-07-15 08:00:00",
+      "end_time_str": "2026-07-15 11:55:00"
     },
     {
       "name": "幽系粉尘",
@@ -103,10 +54,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1783987200000,
-      "end_time": 1784001300000,
-      "start_time_str": "2026-07-14 08:00:00",
-      "end_time_str": "2026-07-14 11:55:00"
+      "start_time": 1784073600000,
+      "end_time": 1784087700000,
+      "start_time_str": "2026-07-15 08:00:00",
+      "end_time_str": "2026-07-15 11:55:00"
     },
     {
       "name": "蓝晶碧玺",
@@ -119,10 +70,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1784001600000,
-      "end_time": 1784015700000,
-      "start_time_str": "2026-07-14 12:00:00",
-      "end_time_str": "2026-07-14 15:55:00"
+      "start_time": 1784088000000,
+      "end_time": 1784102100000,
+      "start_time_str": "2026-07-15 12:00:00",
+      "end_time_str": "2026-07-15 15:55:00"
     },
     {
       "name": "魔力果",
@@ -135,10 +86,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1784001600000,
-      "end_time": 1784015700000,
-      "start_time_str": "2026-07-14 12:00:00",
-      "end_time_str": "2026-07-14 15:55:00"
+      "start_time": 1784088000000,
+      "end_time": 1784102100000,
+      "start_time_str": "2026-07-15 12:00:00",
+      "end_time_str": "2026-07-15 15:55:00"
     },
     {
       "name": "神奇的蛋",
@@ -151,10 +102,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1784001600000,
-      "end_time": 1784015700000,
-      "start_time_str": "2026-07-14 12:00:00",
-      "end_time_str": "2026-07-14 15:55:00"
+      "start_time": 1784088000000,
+      "end_time": 1784102100000,
+      "start_time_str": "2026-07-15 12:00:00",
+      "end_time_str": "2026-07-15 15:55:00"
     },
     {
       "name": "紫莲刚玉",
@@ -167,10 +118,10 @@
       "rounds": [
         3
       ],
-      "start_time": 1784016000000,
-      "end_time": 1784030100000,
-      "start_time_str": "2026-07-14 16:00:00",
-      "end_time_str": "2026-07-14 19:55:00"
+      "start_time": 1784102400000,
+      "end_time": 1784116500000,
+      "start_time_str": "2026-07-15 16:00:00",
+      "end_time_str": "2026-07-15 19:55:00"
     },
     {
       "name": "蓝晶碧玺",
@@ -183,10 +134,10 @@
       "rounds": [
         4
       ],
-      "start_time": 1784030400000,
-      "end_time": 1784044500000,
-      "start_time_str": "2026-07-14 20:00:00",
-      "end_time_str": "2026-07-14 23:55:00"
+      "start_time": 1784116800000,
+      "end_time": 1784130900000,
+      "start_time_str": "2026-07-15 20:00:00",
+      "end_time_str": "2026-07-15 23:55:00"
     },
     {
       "name": "紫莲刚玉",
@@ -199,10 +150,10 @@
       "rounds": [
         4
       ],
-      "start_time": 1784030400000,
-      "end_time": 1784044500000,
-      "start_time_str": "2026-07-14 20:00:00",
-      "end_time_str": "2026-07-14 23:55:00"
+      "start_time": 1784116800000,
+      "end_time": 1784130900000,
+      "start_time_str": "2026-07-15 20:00:00",
+      "end_time_str": "2026-07-15 23:55:00"
     },
     {
       "name": "魔力果",
@@ -215,10 +166,10 @@
       "rounds": [
         4
       ],
-      "start_time": 1784030400000,
-      "end_time": 1784044500000,
-      "start_time_str": "2026-07-14 20:00:00",
-      "end_time_str": "2026-07-14 23:55:00"
+      "start_time": 1784116800000,
+      "end_time": 1784130900000,
+      "start_time_str": "2026-07-15 20:00:00",
+      "end_time_str": "2026-07-15 23:55:00"
     }
   ]
 }
