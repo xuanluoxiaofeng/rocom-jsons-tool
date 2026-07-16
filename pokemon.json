@@ -1,1555 +1,5 @@
 [
   {
-    "id": "000",
-    "name": "赤毛鸡仔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chimaojizai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "火云斗鸡",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_huoyundouji",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "伊丽莎白",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yilishabai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "圣光迪莫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_shengguangdimo",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "圣草迪莫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_shengcaodimo",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "煤球憨憨",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_meiqiuhanhan",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "害羞球球",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_haixiuqiuqiu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "蓝衣夜灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_lanyiyeling",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "烈钻鸟",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_liezuanniao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "长尾火鸟",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_changweihuoniao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "火羽",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_huoyu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "小螂",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xiaolang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "兵螂",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_binglang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "飞天刀螂",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_feitiandaolang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "武斗酷猫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "阿布",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_abu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "超能阿布",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chaonengabu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "瑰眼仔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_guiyankungchong",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "耳翎瑰魅",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_erlingguimei",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "邪眼巨魔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_jumoxiechong",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "小光",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xiaoguang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "迷迷眼",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_mimiyan",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "黑炎宝宝",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_heiyanbaobao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "黑炎",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_heiyan",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "呼拉猫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_jianfeimao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "增肌猫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_jiroumao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "健猫教练",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_baolizhanmao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "友爱天天",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_feiman",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "友爱星飞",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_feigeer",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "超能球球",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chaonengqiuqiu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "绿洲象",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_lvzhoumengmaxiang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "流星猛犸",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_liuxiangmengmaxiang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "古拉海象",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_gulahaixiang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "大古拉海象",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_dagulahaixiang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "卡波",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xieefangchui",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "卡拉波斯",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_hunshuifangchui",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "丢丢",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_diudiu_huoshan",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "卡卡虫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_kakachong_huoshan",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "卡瓦重",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_kawachong_huoshan",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "觅觅蝠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_mimifu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "翻翻蝠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "夜游魔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "冰虎宝",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "冰晶虎",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "冰晶古齿虎",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "芽眼魔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yayanmo",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "叶眼魔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yeyanmo",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "障眼魔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "霹雳宝宝",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_pilibaobao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "雷鸣小子",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_leimingwang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "雷暴奔奔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "齿轮小子",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chilunxiaozi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "机甲小子",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_jijiaxiaozi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "格斗小五",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_gedouxiaowu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "格斗小六",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_gedouxiaoliu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "格斗小八",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_gedouxiaoba",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "空灵兽",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "空灵斗士",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "麦香驼",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_maixiangtuo",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "梦游",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_mengyou_pink",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "梦悠悠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_mengyouyou_pink",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "雪毛角羚牛",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xuemaojiaolinyang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "雪毛角羚牛",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xuemaojiaolinyang_wanjiao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "雪毛角羚牛",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xuemaojiaolinyang_huanjiao",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "星云旅者",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xingyunlvzhe",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "圣羽翼王",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "线球鼠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "慈母鼠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "夜回犀牛",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "圣水迪莫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "圣火迪莫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "水星尾",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "水星龙弦",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "多灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_duoling",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "多灵主",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_duolingzhu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "小银翼龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "银翼龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "乌咩",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "乌角驮驮",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "堇楹苞",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "蔓羽兽",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "厉毒鸩兽",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "栗鼠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_lishu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "壳栗丝鼠",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_kelisishu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "落陨星兔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "河马巴斯",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "热团团",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "焰米龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "圣凯布米龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "利刺毒蝎",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "剧毒魔蝎",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "玳龟",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "玳塔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "不咕钟",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_buguzhong",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "溯源钟",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_suyuanzhong",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "古钟蛇",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_guzhongshe_yidi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "寒音蛇",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_hanyinshe_yidi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "冥古龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "海豚宝",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "泡泡豚",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "海豚勇士",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "蜜果骸",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "半朽蜜果灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "封印守卫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "封印使者",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "上古战龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "格斗小七",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "糖串串",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "可烤汪",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "松仔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_songzai",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "松叶羊",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yesongyang",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "针叶巡林",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_zhenyexunlin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "水滴蛇",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_shuidishe",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "水蛇锁",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_shuishesuo",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "游蛇魔使",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_youshemoshi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "小勇狮",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xiaoyongshi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "炽焰狮",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chiyanshi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "炽心勇狮",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chixinyongshi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "骨朵鸟",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chixinyongshi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "紫花雀",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_chixinyongshi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "小怂猫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xiaosongmao_yidi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "怒目怂猫",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_numusongmao_yidi",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "宝藏小狐",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_fangfanghu",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "宝藏沙狐",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_hulianchacha",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "雪影娃娃·春日",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_xueyingwawa",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "莫比乌乌",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "克莱因龙",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "森豆丁",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_huohongwei",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "森蛮人",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "森巨人",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "丁丁卯",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_huohongwei",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "卯山咪钥",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "火豆丁",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_huohongwei",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "火蛮人",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "火巨人",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "点点",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_huohongwei",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "珀尔鼬",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "苞米仔",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "炮米花",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "诅咒狼灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "新月狼灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "银月狼王",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "新月鹭",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "月辉鹭",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "月使鹭纳",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "章脑丸",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "智辉章脑",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "乌头蝇",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "乌蝇飞贼",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "小浣蛋",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "黑手浣熊",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "幽铃",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "摇铃魔偶",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "布灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "000",
-    "name": "布灵布灵",
-    "rank": "",
-    "image_url": "",
-    "is_shiny": false,
-    "image_id": "JL_yadanbin",
-    "handbook_id": "",
-    "shiny_static_url": ""
-  },
-  {
     "id": "001",
     "name": "迪莫",
     "rank": "",
@@ -1636,6 +86,16 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.004_叶冕魔力猫.png",
     "is_shiny": false,
     "image_id": "JL_molimiao_shouling",
+    "handbook_id": "handbook_000004",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "004",
+    "name": "武斗酷猫",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.004_武斗酷猫.png",
+    "is_shiny": false,
+    "image_id": "JL_wumiao",
     "handbook_id": "handbook_000004",
     "shiny_static_url": ""
   },
@@ -1776,16 +236,6 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
     "is_shiny": false,
     "image_id": "JL_yajiji_qilaiya",
-    "handbook_id": "handbook_000011",
-    "shiny_static_url": ""
-  },
-  {
-    "id": "011",
-    "name": "鸭吉吉国王",
-    "rank": "",
-    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
-    "is_shiny": false,
-    "image_id": "JL_yajiji_shouling",
     "handbook_id": "handbook_000011",
     "shiny_static_url": ""
   },
@@ -2250,6 +700,16 @@
     "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.031_叮叮恶魔_shiny.png"
   },
   {
+    "id": "031",
+    "name": "恶魔男爵",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.031_恶魔男爵.png",
+    "is_shiny": true,
+    "image_id": "JL_anyingemo",
+    "handbook_id": "handbook_000031",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.031_恶魔男爵_shiny.png"
+  },
+  {
     "id": "032",
     "name": "毛毛",
     "rank": "",
@@ -2334,10 +794,10 @@
     "name": "幻影荆棘",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幻影荆棘.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_youyingshu_shouling",
     "handbook_id": "handbook_000035",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幻影荆棘_shiny.png"
   },
   {
     "id": "036",
@@ -2534,10 +994,10 @@
     "name": "奇丽果",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.043_奇丽果.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_qilihua_boss",
     "handbook_id": "handbook_000043",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.043_奇丽果_shiny.png"
   },
   {
     "id": "044",
@@ -2546,6 +1006,16 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.044_丢丢.png",
     "is_shiny": false,
     "image_id": "JL_diudiu",
+    "handbook_id": "handbook_000044",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "044",
+    "name": "丢丢",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.044_丢丢.png",
+    "is_shiny": false,
+    "image_id": "JL_diudiu_huoshan",
     "handbook_id": "handbook_000044",
     "shiny_static_url": ""
   },
@@ -2585,6 +1055,16 @@
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.045_卡卡虫.png",
     "is_shiny": false,
+    "image_id": "JL_kakachong_huoshan",
+    "handbook_id": "handbook_000045",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "045",
+    "name": "卡卡虫",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.045_卡卡虫.png",
+    "is_shiny": false,
     "image_id": "JL_kakachong_shamo",
     "handbook_id": "handbook_000045",
     "shiny_static_url": ""
@@ -2606,6 +1086,16 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.046_卡瓦重.png",
     "is_shiny": false,
     "image_id": "JL_kawachong",
+    "handbook_id": "handbook_000046",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "046",
+    "name": "卡瓦重",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.046_卡瓦重.png",
+    "is_shiny": false,
+    "image_id": "JL_kawachong_huoshan",
     "handbook_id": "handbook_000046",
     "shiny_static_url": ""
   },
@@ -2770,12 +1260,32 @@
     "shiny_static_url": ""
   },
   {
+    "id": "057",
+    "name": "梦游",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.057_梦游.png",
+    "is_shiny": false,
+    "image_id": "JL_mengyou_pink",
+    "handbook_id": "handbook_000057",
+    "shiny_static_url": ""
+  },
+  {
     "id": "058",
     "name": "梦悠悠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.058_梦悠悠.png",
     "is_shiny": false,
     "image_id": "JL_mengyouyou",
+    "handbook_id": "handbook_000058",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "058",
+    "name": "梦悠悠",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.058_梦悠悠.png",
+    "is_shiny": false,
+    "image_id": "JL_mengyouyou_pink",
     "handbook_id": "handbook_000058",
     "shiny_static_url": ""
   },
@@ -3034,20 +1544,20 @@
     "name": "伊贝儿",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.071_伊贝儿.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_yibeier",
     "handbook_id": "handbook_000071",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.071_伊贝儿_shiny.png"
   },
   {
     "id": "072",
     "name": "伊贝粉粉",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.072_伊贝粉粉.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_yibeifenfen",
     "handbook_id": "handbook_000072",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.072_伊贝粉粉_shiny.png"
   },
   {
     "id": "073",
@@ -3084,80 +1594,80 @@
     "name": "海盔虫",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.076_海盔虫.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_haikuichong",
     "handbook_id": "handbook_000076",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.076_海盔虫_shiny.png"
   },
   {
     "id": "076",
     "name": "海盔虫",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.076_海盔虫.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_haikuichong_yidi",
     "handbook_id": "handbook_000076",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.076_海盔虫_shiny.png"
   },
   {
     "id": "077",
     "name": "刺盔虫",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.077_刺盔虫.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_cikuichong",
     "handbook_id": "handbook_000077",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.077_刺盔虫_shiny.png"
   },
   {
     "id": "077",
     "name": "刺盔虫",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.077_刺盔虫.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_cikuichong_yidi",
     "handbook_id": "handbook_000077",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.077_刺盔虫_shiny.png"
   },
   {
     "id": "078",
     "name": "千棘盔",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘盔.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_qianjikui",
     "handbook_id": "handbook_000078",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘盔_shiny.png"
   },
   {
     "id": "078",
     "name": "千棘盔",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘盔.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_qianjikui_yidi",
     "handbook_id": "handbook_000078",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘盔_shiny.png"
   },
   {
     "id": "078",
     "name": "千棘海针",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘海针.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_qianjikui_shouling",
     "handbook_id": "handbook_000078",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘海针_shiny.png"
   },
   {
     "id": "078",
     "name": "千棘海针",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘海针.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_qianjikui_shouling",
     "handbook_id": "handbook_000078",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘海针_shiny.png"
   },
   {
     "id": "079",
@@ -3394,30 +1904,30 @@
     "name": "小草虫",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.099_小草虫.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_xiaocaochong",
     "handbook_id": "handbook_000099",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.099_小草虫_shiny.png"
   },
   {
     "id": "100",
     "name": "草衣虫",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.100_草衣虫.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_caoyichong",
     "handbook_id": "handbook_000100",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.100_草衣虫_shiny.png"
   },
   {
     "id": "101",
     "name": "花衣蝶",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.101_花衣蝶.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_huayidie",
     "handbook_id": "handbook_000101",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.101_花衣蝶_shiny.png"
   },
   {
     "id": "102",
@@ -3530,16 +2040,6 @@
     "shiny_static_url": ""
   },
   {
-    "id": "110",
-    "name": "神谕鲨",
-    "rank": "",
-    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.110_神谕鲨.png",
-    "is_shiny": false,
-    "image_id": "JL_caidiesha_shouling",
-    "handbook_id": "handbook_000110",
-    "shiny_static_url": ""
-  },
-  {
     "id": "111",
     "name": "石石",
     "rank": "",
@@ -3634,10 +2134,10 @@
     "name": "彩虹独角兽",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_彩虹独角兽.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_yilisi",
     "handbook_id": "handbook_000117",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_彩虹独角兽_shiny.png"
   },
   {
     "id": "118",
@@ -3696,6 +2196,26 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.120_风滚暮虫.png",
     "is_shiny": false,
     "image_id": "JL_fengguanmuchong_yidi",
+    "handbook_id": "handbook_000120",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "120",
+    "name": "暮风隐者",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.120_暮风隐者.png",
+    "is_shiny": false,
+    "image_id": "JL_fenggunmuchong_shouling",
+    "handbook_id": "handbook_000120",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "120",
+    "name": "暮风隐者",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.120_暮风隐者.png",
+    "is_shiny": false,
+    "image_id": "JL_fenggunmuchong_shouling",
     "handbook_id": "handbook_000120",
     "shiny_static_url": ""
   },
@@ -3824,10 +2344,10 @@
     "name": "恶魔狼王",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.131_恶魔狼王.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_emolang_shouling",
     "handbook_id": "handbook_000131",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.131_恶魔狼王_shiny.png"
   },
   {
     "id": "132",
@@ -3964,10 +2484,10 @@
     "name": "雪影冰灵",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.144_雪影冰灵.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_xueyingwawa_shouling",
     "handbook_id": "handbook_000144",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.144_雪影冰灵_shiny.png"
   },
   {
     "id": "145",
@@ -4354,20 +2874,20 @@
     "name": "斑斑",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.177_斑斑.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_banban",
     "handbook_id": "handbook_000177",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.177_斑斑_shiny.png"
   },
   {
     "id": "178",
     "name": "斑枭",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.178_斑枭.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_banxiao",
     "handbook_id": "handbook_000178",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.178_斑枭_shiny.png"
   },
   {
     "id": "179",
@@ -4550,6 +3070,16 @@
     "shiny_static_url": ""
   },
   {
+    "id": "190",
+    "name": "棋契陛下",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.190_棋契陛下.png",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000190",
+    "shiny_static_url": ""
+  },
+  {
     "id": "191",
     "name": "棋祈督",
     "rank": "",
@@ -4580,6 +3110,16 @@
     "shiny_static_url": ""
   },
   {
+    "id": "191",
+    "name": "棋契陛下",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.191_棋契陛下.png",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000191",
+    "shiny_static_url": ""
+  },
+  {
     "id": "192",
     "name": "棋绮后",
     "rank": "",
@@ -4596,6 +3136,16 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.192_棋绮后.png",
     "is_shiny": false,
     "image_id": "JL_qiqihou_yidi",
+    "handbook_id": "handbook_000192",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "192",
+    "name": "棋契陛下",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.192_棋契陛下.png",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
     "handbook_id": "handbook_000192",
     "shiny_static_url": ""
   },
@@ -4768,6 +3318,16 @@
     "image_id": "JL_kula",
     "handbook_id": "handbook_000206",
     "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.206_酷拉_shiny.png"
+  },
+  {
+    "id": "206",
+    "name": "风暴酷拉",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.206_风暴酷拉.png",
+    "is_shiny": true,
+    "image_id": "JL_kula_shouling",
+    "handbook_id": "handbook_000206",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.206_风暴酷拉_shiny.png"
   },
   {
     "id": "207",
@@ -5054,40 +3614,40 @@
     "name": "小鹬",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.231_小鹬.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_xiaoyu",
     "handbook_id": "handbook_000231",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.231_小鹬_shiny.png"
   },
   {
     "id": "232",
     "name": "鄙目鹬",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.232_鄙目鹬.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_bimuyu",
     "handbook_id": "handbook_000232",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.232_鄙目鹬_shiny.png"
   },
   {
     "id": "233",
     "name": "高脚鹬",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.233_高脚鹬.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_gaojiaoyu",
     "handbook_id": "handbook_000233",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.233_高脚鹬_shiny.png"
   },
   {
     "id": "233",
     "name": "高帽鹬者",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.233_高帽鹬者.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_gaomaoyuzhe",
     "handbook_id": "handbook_000233",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.233_高帽鹬者_shiny.png"
   },
   {
     "id": "234",
@@ -5264,30 +3824,30 @@
     "name": "豆丁鱼",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.239_豆丁鱼.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_doudingyu",
     "handbook_id": "handbook_000239",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.239_豆丁鱼_shiny.png"
   },
   {
     "id": "240",
     "name": "快鳍鱼",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.240_快鳍鱼.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_kuaiqiyu",
     "handbook_id": "handbook_000240",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.240_快鳍鱼_shiny.png"
   },
   {
     "id": "241",
     "name": "龙鱼",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.241_龙鱼.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_yulong",
     "handbook_id": "handbook_000241",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.241_龙鱼_shiny.png"
   },
   {
     "id": "242",
@@ -5564,40 +4124,40 @@
     "name": "可立鸡",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.266_可立鸡.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_keliji",
     "handbook_id": "handbook_000266",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.266_可立鸡_shiny.png"
   },
   {
     "id": "267",
     "name": "晕晕鸡",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.267_晕晕鸡.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_yunyunji",
     "handbook_id": "handbook_000267",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.267_晕晕鸡_shiny.png"
   },
   {
     "id": "268",
     "name": "绅士鸡",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.268_绅士鸡.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_shenshiji",
     "handbook_id": "handbook_000268",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.268_绅士鸡_shiny.png"
   },
   {
     "id": "269",
     "name": "武者鸡",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.269_武者鸡.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_wuzheji",
     "handbook_id": "handbook_000269",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.269_武者鸡_shiny.png"
   },
   {
     "id": "270",
@@ -5674,60 +4234,60 @@
     "name": "地鼠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.277_地鼠.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_dishu",
     "handbook_id": "handbook_000277",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.277_地鼠_shiny.png"
   },
   {
     "id": "277",
     "name": "地鼠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.277_地鼠.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_dishu_xushui",
     "handbook_id": "handbook_000277",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.277_地鼠_shiny.png"
   },
   {
     "id": "278",
     "name": "遁鼠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.278_遁鼠.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_dunshu",
     "handbook_id": "handbook_000278",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.278_遁鼠_shiny.png"
   },
   {
     "id": "278",
     "name": "遁鼠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.278_遁鼠.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_dunshu_xushui",
     "handbook_id": "handbook_000278",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.278_遁鼠_shiny.png"
   },
   {
     "id": "279",
     "name": "遁地鼠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.279_遁地鼠.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_dundishu",
     "handbook_id": "handbook_000279",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.279_遁地鼠_shiny.png"
   },
   {
     "id": "279",
     "name": "遁地鼠",
     "rank": "",
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.279_遁地鼠.png",
-    "is_shiny": false,
+    "is_shiny": true,
     "image_id": "JL_dundishu_xushui",
     "handbook_id": "handbook_000279",
-    "shiny_static_url": ""
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.279_遁地鼠_shiny.png"
   },
   {
     "id": "280",
@@ -5826,6 +4386,16 @@
     "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.288_泥吼牙.png",
     "is_shiny": false,
     "image_id": "JL_nihouya",
+    "handbook_id": "handbook_000288",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "288",
+    "name": "淤泥乌泽",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.288_淤泥乌泽.png",
+    "is_shiny": false,
+    "image_id": "JL_nihouya_shouling",
     "handbook_id": "handbook_000288",
     "shiny_static_url": ""
   },
@@ -6238,6 +4808,16 @@
     "image_id": "JL_yexiao",
     "handbook_id": "handbook_000329",
     "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.329_夜枭_shiny.png"
+  },
+  {
+    "id": "329",
+    "name": "暗夜颅主",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.329_暗夜颅主.png",
+    "is_shiny": true,
+    "image_id": "JL_anyeluzhu",
+    "handbook_id": "handbook_000329",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.329_暗夜颅主_shiny.png"
   },
   {
     "id": "330",
@@ -6707,6 +5287,656 @@
     "is_shiny": false,
     "image_id": "JL_xueyuanguagua",
     "handbook_id": "handbook_000375",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "376",
+    "name": "烈钻鸟",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.376_烈钻鸟.png",
+    "is_shiny": false,
+    "image_id": "JL_liezuanniao",
+    "handbook_id": "handbook_000376",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "377",
+    "name": "长尾火鸟",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.377_长尾火鸟.png",
+    "is_shiny": false,
+    "image_id": "JL_changweihuoniao",
+    "handbook_id": "handbook_000377",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "378",
+    "name": "火羽",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.378_火羽.png",
+    "is_shiny": false,
+    "image_id": "JL_huoyu",
+    "handbook_id": "handbook_000378",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "379",
+    "name": "叮叮卯",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.379_叮叮卯.png",
+    "is_shiny": false,
+    "image_id": "JL_dingdingmao",
+    "handbook_id": "handbook_000379",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "380",
+    "name": "飞飞钥",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.380_飞飞钥.png",
+    "is_shiny": false,
+    "image_id": "JL_feifeiyao",
+    "handbook_id": "handbook_000380",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "381",
+    "name": "碎晶蝎",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.381_碎晶蝎.png",
+    "is_shiny": false,
+    "image_id": "JL_suijingxie",
+    "handbook_id": "handbook_000381",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "382",
+    "name": "晶尾蝎",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.382_晶尾蝎.png",
+    "is_shiny": false,
+    "image_id": "JL_jingweixie",
+    "handbook_id": "handbook_000382",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "383",
+    "name": "蝎子王",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.383_蝎子王.png",
+    "is_shiny": false,
+    "image_id": "JL_xieziwang",
+    "handbook_id": "handbook_000383",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "384",
+    "name": "森豆丁",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.384_森豆丁.png",
+    "is_shiny": false,
+    "image_id": "JL_sendouding",
+    "handbook_id": "handbook_000384",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "385",
+    "name": "森蛮人",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.385_森蛮人.png",
+    "is_shiny": false,
+    "image_id": "JL_senmanren",
+    "handbook_id": "handbook_000385",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "386",
+    "name": "森巨人",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.386_森巨人.png",
+    "is_shiny": false,
+    "image_id": "JL_senjuren",
+    "handbook_id": "handbook_000386",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "387",
+    "name": "霹雳宝宝",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.387_霹雳宝宝.png",
+    "is_shiny": false,
+    "image_id": "JL_pilibaobao",
+    "handbook_id": "handbook_000387",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "388",
+    "name": "雷鸣小子",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.388_雷鸣小子.png",
+    "is_shiny": false,
+    "image_id": "JL_leimingwang",
+    "handbook_id": "handbook_000388",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "389",
+    "name": "雷神之子",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.389_雷神之子.png",
+    "is_shiny": false,
+    "image_id": "JL_leishenzhizi",
+    "handbook_id": "handbook_000389",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "390",
+    "name": "雪灵兽",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.390_雪灵兽.png",
+    "is_shiny": false,
+    "image_id": "JL_xuelingshou",
+    "handbook_id": "handbook_000390",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "391",
+    "name": "幻雪兽",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.391_幻雪兽.png",
+    "is_shiny": false,
+    "image_id": "JL_huanxueshou",
+    "handbook_id": "handbook_000391",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "392",
+    "name": "饮雪狂兽",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.392_饮雪狂兽.png",
+    "is_shiny": false,
+    "image_id": "JL_yinxuekuangshou",
+    "handbook_id": "handbook_000392",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "393",
+    "name": "火豆丁",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.393_火豆丁.png",
+    "is_shiny": false,
+    "image_id": "JL_huodouding",
+    "handbook_id": "handbook_000393",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "394",
+    "name": "火蛮人",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.394_火蛮人.png",
+    "is_shiny": false,
+    "image_id": "JL_huomanren",
+    "handbook_id": "handbook_000394",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "395",
+    "name": "火巨人",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.395_火巨人.png",
+    "is_shiny": false,
+    "image_id": "JL_huojuren",
+    "handbook_id": "handbook_000395",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "396",
+    "name": "友爱天天",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.396_友爱天天.png",
+    "is_shiny": false,
+    "image_id": "JL_tiantian",
+    "handbook_id": "handbook_000396",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "397",
+    "name": "友爱星飞",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.397_友爱星飞.png",
+    "is_shiny": false,
+    "image_id": "JL_feifei",
+    "handbook_id": "handbook_000397",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "398",
+    "name": "莫比乌乌",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.398_莫比乌乌.png",
+    "is_shiny": false,
+    "image_id": "JL_mobiwuwu",
+    "handbook_id": "handbook_000398",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "399",
+    "name": "克莱因龙",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.399_克莱因龙.png",
+    "is_shiny": false,
+    "image_id": "JL_huanliumobi",
+    "handbook_id": "handbook_000399",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "400",
+    "name": "瑰眼仔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.400_瑰眼仔.png",
+    "is_shiny": false,
+    "image_id": "JL_guiyankungchong",
+    "handbook_id": "handbook_000400",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "401",
+    "name": "耳翎瑰魅",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.401_耳翎瑰魅.png",
+    "is_shiny": false,
+    "image_id": "JL_erlingguimei",
+    "handbook_id": "handbook_000401",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "402",
+    "name": "邪眼巨魔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.402_邪眼巨魔.png",
+    "is_shiny": false,
+    "image_id": "JL_jumoxiechong",
+    "handbook_id": "handbook_000402",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "403",
+    "name": "觅觅蝠",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.403_觅觅蝠.png",
+    "is_shiny": false,
+    "image_id": "JL_mimifu",
+    "handbook_id": "handbook_000403",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "404",
+    "name": "翻翻蝠",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.404_翻翻蝠.png",
+    "is_shiny": false,
+    "image_id": "JL_fanfanfu",
+    "handbook_id": "handbook_000404",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "405",
+    "name": "夜游魔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.405_夜游魔.png",
+    "is_shiny": false,
+    "image_id": "JL_yeyoumo",
+    "handbook_id": "handbook_000405",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "406",
+    "name": "芽眼魔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.406_芽眼魔.png",
+    "is_shiny": false,
+    "image_id": "JL_yayanmo",
+    "handbook_id": "handbook_000406",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "407",
+    "name": "叶眼魔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.407_叶眼魔.png",
+    "is_shiny": false,
+    "image_id": "JL_yeyanmo",
+    "handbook_id": "handbook_000407",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "408",
+    "name": "障眼魔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.408_障眼魔.png",
+    "is_shiny": false,
+    "image_id": "JL_duyanjumo",
+    "handbook_id": "handbook_000408",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "409",
+    "name": "星云旅者",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.409_星云旅者.png",
+    "is_shiny": false,
+    "image_id": "JL_xingyunlvzhe",
+    "handbook_id": "handbook_000409",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "410",
+    "name": "点点",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.410_点点.png",
+    "is_shiny": false,
+    "image_id": "JL_diandian",
+    "handbook_id": "handbook_000410",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "411",
+    "name": "珀尔鼬",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.411_珀尔鼬.png",
+    "is_shiny": false,
+    "image_id": "JL_boeryou",
+    "handbook_id": "handbook_000411",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "412",
+    "name": "不咕钟",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.412_不咕钟.png",
+    "is_shiny": false,
+    "image_id": "JL_buguzhong",
+    "handbook_id": "handbook_000412",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "413",
+    "name": "溯源钟",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.413_溯源钟.png",
+    "is_shiny": false,
+    "image_id": "JL_suyuanzhong",
+    "handbook_id": "handbook_000413",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "414",
+    "name": "加灵",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.414_加灵.png",
+    "is_shiny": false,
+    "image_id": "JL_jialing",
+    "handbook_id": "handbook_000414",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "415",
+    "name": "加益",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.415_加益.png",
+    "is_shiny": false,
+    "image_id": "JL_jiayi",
+    "handbook_id": "handbook_000415",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "416",
+    "name": "加尔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.416_加尔.png",
+    "is_shiny": false,
+    "image_id": "JL_jiaer",
+    "handbook_id": "handbook_000416",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "417",
+    "name": "黑化加尔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.417_黑化加尔.png",
+    "is_shiny": false,
+    "image_id": "JL_heihuajiaer",
+    "handbook_id": "handbook_000417",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "418",
+    "name": "咬咬小子",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.418_咬咬小子.png",
+    "is_shiny": true,
+    "image_id": "JL_yaoyaoxiaozi",
+    "handbook_id": "handbook_000418",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.418_咬咬小子_shiny.png"
+  },
+  {
+    "id": "419",
+    "name": "胡桃王子",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.419_胡桃王子.png",
+    "is_shiny": true,
+    "image_id": "JL_hutaowangzi",
+    "handbook_id": "handbook_000419",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.419_胡桃王子_shiny.png"
+  },
+  {
+    "id": "420",
+    "name": "足尖元件",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.420_足尖元件.png",
+    "is_shiny": true,
+    "image_id": "JL_zujianyuanjian",
+    "handbook_id": "handbook_000420",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.420_足尖元件_shiny.png"
+  },
+  {
+    "id": "421",
+    "name": "离心舞者",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.421_离心舞者.png",
+    "is_shiny": true,
+    "image_id": "JL_lixinwuzhe",
+    "handbook_id": "handbook_000421",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.421_离心舞者_shiny.png"
+  },
+  {
+    "id": "422",
+    "name": "蝴蝶陶陶",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.422_蝴蝶陶陶.png",
+    "is_shiny": true,
+    "image_id": "JL_hudietaotao",
+    "handbook_id": "handbook_000422",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.422_蝴蝶陶陶_shiny.png"
+  },
+  {
+    "id": "423",
+    "name": "铆钉毛毛",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.423_铆钉毛毛.png",
+    "is_shiny": true,
+    "image_id": "JL_maolaoda",
+    "handbook_id": "handbook_000423",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.423_铆钉毛毛_shiny.png"
+  },
+  {
+    "id": "424",
+    "name": "徘徊爪爪",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.424_徘徊爪爪.png",
+    "is_shiny": true,
+    "image_id": "JL_maolaoye",
+    "handbook_id": "handbook_000424",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.424_徘徊爪爪_shiny.png"
+  },
+  {
+    "id": "425",
+    "name": "苞米仔",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.425_苞米仔.png",
+    "is_shiny": true,
+    "image_id": "JL_baomizai",
+    "handbook_id": "handbook_000425",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.425_苞米仔_shiny.png"
+  },
+  {
+    "id": "426",
+    "name": "炮米花",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.426_炮米花.png",
+    "is_shiny": true,
+    "image_id": "JL_baomihua",
+    "handbook_id": "handbook_000426",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.426_炮米花_shiny.png"
+  },
+  {
+    "id": "427",
+    "name": "十字蝌蚪",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.427_十字蝌蚪.png",
+    "is_shiny": true,
+    "image_id": "JL_shizikedou",
+    "handbook_id": "handbook_000427",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.427_十字蝌蚪_shiny.png"
+  },
+  {
+    "id": "428",
+    "name": "十字蛙",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.428_十字蛙.png",
+    "is_shiny": true,
+    "image_id": "JL_shiziwa",
+    "handbook_id": "handbook_000428",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.428_十字蛙_shiny.png"
+  },
+  {
+    "id": "429",
+    "name": "深渊蛙",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.429_深渊蛙.png",
+    "is_shiny": true,
+    "image_id": "JL_shenyuanwa",
+    "handbook_id": "handbook_000429",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.429_深渊蛙_shiny.png"
+  },
+  {
+    "id": "430",
+    "name": "卡波",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.430_卡波.png",
+    "is_shiny": true,
+    "image_id": "JL_xieefangchui",
+    "handbook_id": "handbook_000430",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.430_卡波_shiny.png"
+  },
+  {
+    "id": "431",
+    "name": "卡拉波斯",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.431_卡拉波斯.png",
+    "is_shiny": true,
+    "image_id": "JL_hunshuifangchui",
+    "handbook_id": "handbook_000431",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.431_卡拉波斯_shiny.png"
+  },
+  {
+    "id": "432",
+    "name": "守夜烛",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.432_守夜烛.png",
+    "is_shiny": true,
+    "image_id": "JL_shouyezhu",
+    "handbook_id": "handbook_000432",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.432_守夜烛_shiny.png"
+  },
+  {
+    "id": "433",
+    "name": "流明坎德拉",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.433_流明坎德拉.png",
+    "is_shiny": true,
+    "image_id": "JL_liumingkandela",
+    "handbook_id": "handbook_000433",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.433_流明坎德拉_shiny.png"
+  },
+  {
+    "id": "434",
+    "name": "蜜果骸",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.434_蜜果骸.png",
+    "is_shiny": true,
+    "image_id": "JL_miguohai",
+    "handbook_id": "handbook_000434",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.434_蜜果骸_shiny.png"
+  },
+  {
+    "id": "435",
+    "name": "半朽蜜果灵",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.435_半朽蜜果灵.png",
+    "is_shiny": true,
+    "image_id": "JL_banxiumiguoling",
+    "handbook_id": "handbook_000435",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.435_半朽蜜果灵_shiny.png"
+  },
+  {
+    "id": "436",
+    "name": "稻草人",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.436_稻草人.png",
+    "is_shiny": true,
+    "image_id": "JL_daocaoren",
+    "handbook_id": "handbook_000436",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.436_稻草人_shiny.png"
+  },
+  {
+    "id": "437",
+    "name": "稻草守护者",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.437_稻草守护者.png",
+    "is_shiny": true,
+    "image_id": "JL_daocaoshouhuzhe",
+    "handbook_id": "handbook_000437",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.437_稻草守护者_shiny.png"
+  },
+  {
+    "id": "438",
+    "name": "栗鼠",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.438_栗鼠.png",
+    "is_shiny": true,
+    "image_id": "JL_lishu",
+    "handbook_id": "handbook_000438",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.438_栗鼠_shiny.png"
+  },
+  {
+    "id": "439",
+    "name": "壳栗丝鼠",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.439_壳栗丝鼠.png",
+    "is_shiny": true,
+    "image_id": "JL_kelisishu",
+    "handbook_id": "handbook_000439",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.439_壳栗丝鼠_shiny.png"
+  },
+  {
+    "id": "440",
+    "name": "睡铃雪影娃娃",
+    "rank": "",
+    "image_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.440_睡铃雪影娃娃.png",
+    "is_shiny": false,
+    "image_id": "JL_xueyingwawachunri",
+    "handbook_id": "handbook_000440",
     "shiny_static_url": ""
   }
 ]
