@@ -1,11 +1,11 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-18T09:41:29.899Z",
+  "fetchedAt": "2026-07-18T13:40:34.509Z",
   "timezone": "Asia/Shanghai",
   "status": "open",
-  "round": 3,
-  "startedAtBeijing": "2026-07-18 16:00:00",
-  "nextRefreshBeijing": "2026-07-18 20:00:00",
+  "round": 4,
+  "startedAtBeijing": "2026-07-18 20:00:00",
+  "nextRefreshBeijing": "2026-07-19 00:00:00",
   "durationHours": 4,
   "merchantPosition": "",
   "items": [
@@ -70,18 +70,6 @@
       ]
     },
     {
-      "name": "紫莲刚玉",
-      "price": "1000",
-      "priceRaw": "1000",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
-      "category": "炼金材料",
-      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
-      "rounds": [
-        3
-      ]
-    },
-    {
       "name": "能力钥匙",
       "price": "160000",
       "priceRaw": "16w",
@@ -93,6 +81,30 @@
         1,
         2,
         3,
+        4
+      ]
+    },
+    {
+      "name": "光系粉尘",
+      "price": "500",
+      "priceRaw": "500",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9d/t3udkq5fg8o3je088pcjktersn9wfrt.png/100px-100124.png",
+      "category": "炼金材料",
+      "description": "常见的炼金材料，蕴含少量光系魔法，是合成技能石的主要触媒。",
+      "rounds": [
+        4
+      ]
+    },
+    {
+      "name": "龙系粉尘",
+      "price": "500",
+      "priceRaw": "500",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/ac/jhbsu0fzhq55ivqu89qz81366owvkki.png/100px-100131.png",
+      "category": "炼金材料",
+      "description": "常见的炼金材料，蕴含少量龙系魔法，是合成技能石的主要触媒。",
+      "rounds": [
         4
       ]
     }
@@ -486,6 +498,30 @@
           1,
           2,
           3,
+          4
+        ]
+      },
+      {
+        "name": "光系粉尘",
+        "price": "500",
+        "priceRaw": "500",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9d/t3udkq5fg8o3je088pcjktersn9wfrt.png/100px-100124.png",
+        "category": "炼金材料",
+        "description": "常见的炼金材料，蕴含少量光系魔法，是合成技能石的主要触媒。",
+        "rounds": [
+          4
+        ]
+      },
+      {
+        "name": "龙系粉尘",
+        "price": "500",
+        "priceRaw": "500",
+        "limit": "100",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/ac/jhbsu0fzhq55ivqu89qz81366owvkki.png/100px-100131.png",
+        "category": "炼金材料",
+        "description": "常见的炼金材料，蕴含少量龙系魔法，是合成技能石的主要触媒。",
+        "rounds": [
           4
         ]
       }
