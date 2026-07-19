@@ -1,15 +1,143 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-18T21:02:05.294Z",
+  "fetchedAt": "2026-07-19T09:59:00.416Z",
   "timezone": "Asia/Shanghai",
-  "status": "closed",
-  "round": null,
-  "startedAtBeijing": null,
-  "nextRefreshBeijing": "2026-07-19 08:00:00",
-  "durationHours": 0,
+  "status": "open",
+  "round": 3,
+  "startedAtBeijing": "2026-07-19 16:00:00",
+  "nextRefreshBeijing": "2026-07-19 20:00:00",
+  "durationHours": 4,
   "merchantPosition": "",
   "live": true,
-  "current_items": [],
+  "current_items": [
+    {
+      "name": "残缺魔镜",
+      "price": "480000",
+      "priceRaw": "48w",
+      "limit": "1",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/10/nssw03fprximwkgzjqdaq8r8pq3q3le.png/100px-100716.png",
+      "category": "性格影响修改道具",
+      "description": "可以修正性格带来的负面影响。 “我不知道，我将消除自己。”",
+      "rounds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
+      "name": "适格钥匙",
+      "price": "320000",
+      "priceRaw": "32w",
+      "limit": "1",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/11/6l0tqz9gytrn8r10gk5bgcj4rxnfx57.png/100px-100714.png",
+      "category": "个体资质属性修改道具",
+      "description": "可以修改精灵的个体资质种类，或激活一条初始值为8的新资质。",
+      "rounds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
+      "name": "网兜球",
+      "price": "3000",
+      "priceRaw": "3000",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/4/4b/60uvwzet0brdqlhtoa89domccpbo4hr.png/100px-Img_wangdiuqiu.png",
+      "category": "特制咕噜球",
+      "description": "更适合用来捕捉水系、翼系精灵。 轻快的球，能直线飞跃很远的距离。",
+      "rounds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
+      "name": "绝缘球",
+      "price": "3000",
+      "priceRaw": "3000",
+      "limit": "200",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/0/0d/k1hb59umk1sisjh8cev5bvyzvavezvb.png/100px-Img_jueyuanqiu.png",
+      "category": "特制咕噜球",
+      "description": "更适合用来捕捉电系、毒系精灵。 蹦蹦跳跳的球，有着弹性十足的手感。",
+      "rounds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
+      "name": "蓝晶碧玺",
+      "price": "1000",
+      "priceRaw": "1000",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png",
+      "category": "炼金材料",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 某些晶石蜗会产出珍贵的粉蓝色碧玺，为此商人翻着花样研究晶石蜗的食谱喜好。",
+      "rounds": [
+        3
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
+      "name": "能力钥匙",
+      "price": "160000",
+      "priceRaw": "16w",
+      "limit": "6",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/2d/749ek9zbh79fvll7f5vtpxa33dz3mze.png/100px-100009.png",
+      "category": "个体资质增强道具",
+      "description": "对初始个体资质小于10的精灵使用，使该项个体资质的初始值增加1。",
+      "rounds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
+      "name": "翼系血脉秘药",
+      "price": "160000",
+      "priceRaw": "16w",
+      "limit": "3",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/15/t49aceulmmb7q8ohahmkyqvrdl2qdkz.png/100px-Xuemai_yi.png",
+      "category": "血脉修改道具",
+      "description": "能唤醒血脉力量的远古秘药，使精灵获得翼系血脉。 “一段失落的秘密将被重拾。”",
+      "rounds": [
+        3
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    }
+  ],
   "items": [
     {
       "name": "残缺魔镜",
@@ -50,22 +178,6 @@
       "end_time_str": "2026-07-19 11:55:00"
     },
     {
-      "name": "黄石榴石",
-      "price": "1000",
-      "priceRaw": "1000",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png",
-      "category": "炼金材料",
-      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 特殊的晶体排列解构，精灵打喷嚏可能会令这种晶体发生爆炸。",
-      "rounds": [
-        1
-      ],
-      "start_time": 1784419200000,
-      "end_time": 1784433300000,
-      "start_time_str": "2026-07-19 08:00:00",
-      "end_time_str": "2026-07-19 11:55:00"
-    },
-    {
       "name": "网兜球",
       "price": "3000",
       "priceRaw": "3000",
@@ -116,22 +228,6 @@
         2,
         3,
         4
-      ],
-      "start_time": 1784419200000,
-      "end_time": 1784433300000,
-      "start_time_str": "2026-07-19 08:00:00",
-      "end_time_str": "2026-07-19 11:55:00"
-    },
-    {
-      "name": "冰系血脉秘药",
-      "price": "160000",
-      "priceRaw": "16w",
-      "limit": "3",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/3/3f/8uweaysx83rtha1qyqpjvd9tsgkdv90.png/100px-Xuemai_bing.png",
-      "category": "血脉修改道具",
-      "description": "能唤醒血脉力量的远古秘药，使精灵获得冰系血脉。 “一段失落的秘密将被重拾。”",
-      "rounds": [
-        1
       ],
       "start_time": 1784419200000,
       "end_time": 1784433300000,
@@ -155,6 +251,22 @@
       "end_time_str": "2026-07-19 11:55:00"
     },
     {
+      "name": "冰系粉尘",
+      "price": "500",
+      "priceRaw": "500",
+      "limit": "100",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png",
+      "category": "炼金材料",
+      "description": "常见的炼金材料，蕴含少量冰系魔法，是合成技能石的主要触媒。",
+      "rounds": [
+        1
+      ],
+      "start_time": 1784419200000,
+      "end_time": 1784433300000,
+      "start_time_str": "2026-07-19 08:00:00",
+      "end_time_str": "2026-07-19 11:55:00"
+    },
+    {
       "name": "残缺魔镜",
       "price": "480000",
       "priceRaw": "48w",
@@ -231,13 +343,13 @@
       "end_time_str": "2026-07-19 15:55:00"
     },
     {
-      "name": "黄石榴石",
+      "name": "蓝晶碧玺",
       "price": "1000",
       "priceRaw": "1000",
       "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png",
       "category": "炼金材料",
-      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 特殊的晶体排列解构，精灵打喷嚏可能会令这种晶体发生爆炸。",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 某些晶石蜗会产出珍贵的粉蓝色碧玺，为此商人翻着花样研究晶石蜗的食谱喜好。",
       "rounds": [
         2
       ],
@@ -266,38 +378,6 @@
       "end_time_str": "2026-07-19 15:55:00"
     },
     {
-      "name": "普通血脉秘药",
-      "price": "160000",
-      "priceRaw": "16w",
-      "limit": "3",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/a8/lx9q220586a1qpy109sy34ghfgtrs6w.png/100px-Xuemai_putong.png",
-      "category": "血脉修改道具",
-      "description": "能唤醒血脉力量的远古秘药，使精灵获得普通系血脉。 “一段失落的秘密将被重拾。”",
-      "rounds": [
-        2
-      ],
-      "start_time": 1784433600000,
-      "end_time": 1784447700000,
-      "start_time_str": "2026-07-19 12:00:00",
-      "end_time_str": "2026-07-19 15:55:00"
-    },
-    {
-      "name": "龙系粉尘",
-      "price": "500",
-      "priceRaw": "500",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/ac/jhbsu0fzhq55ivqu89qz81366owvkki.png/100px-100131.png",
-      "category": "炼金材料",
-      "description": "常见的炼金材料，蕴含少量龙系魔法，是合成技能石的主要触媒。",
-      "rounds": [
-        2
-      ],
-      "start_time": 1784433600000,
-      "end_time": 1784447700000,
-      "start_time_str": "2026-07-19 12:00:00",
-      "end_time_str": "2026-07-19 15:55:00"
-    },
-    {
       "name": "残缺魔镜",
       "price": "480000",
       "priceRaw": "48w",
@@ -374,13 +454,13 @@
       "end_time_str": "2026-07-19 19:55:00"
     },
     {
-      "name": "紫莲刚玉",
+      "name": "蓝晶碧玺",
       "price": "1000",
       "priceRaw": "1000",
       "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png",
       "category": "炼金材料",
-      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
+      "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 某些晶石蜗会产出珍贵的粉蓝色碧玺，为此商人翻着花样研究晶石蜗的食谱喜好。",
       "rounds": [
         3
       ],
@@ -409,6 +489,22 @@
       "end_time_str": "2026-07-19 19:55:00"
     },
     {
+      "name": "翼系血脉秘药",
+      "price": "160000",
+      "priceRaw": "16w",
+      "limit": "3",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/1/15/t49aceulmmb7q8ohahmkyqvrdl2qdkz.png/100px-Xuemai_yi.png",
+      "category": "血脉修改道具",
+      "description": "能唤醒血脉力量的远古秘药，使精灵获得翼系血脉。 “一段失落的秘密将被重拾。”",
+      "rounds": [
+        3
+      ],
+      "start_time": 1784448000000,
+      "end_time": 1784462100000,
+      "start_time_str": "2026-07-19 16:00:00",
+      "end_time_str": "2026-07-19 19:55:00"
+    },
+    {
       "name": "残缺魔镜",
       "price": "480000",
       "priceRaw": "48w",
@@ -496,38 +592,6 @@
         1,
         2,
         3,
-        4
-      ],
-      "start_time": 1784462400000,
-      "end_time": 1784476500000,
-      "start_time_str": "2026-07-19 20:00:00",
-      "end_time_str": "2026-07-19 23:55:00"
-    },
-    {
-      "name": "光系粉尘",
-      "price": "500",
-      "priceRaw": "500",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9d/t3udkq5fg8o3je088pcjktersn9wfrt.png/100px-100124.png",
-      "category": "炼金材料",
-      "description": "常见的炼金材料，蕴含少量光系魔法，是合成技能石的主要触媒。",
-      "rounds": [
-        4
-      ],
-      "start_time": 1784462400000,
-      "end_time": 1784476500000,
-      "start_time_str": "2026-07-19 20:00:00",
-      "end_time_str": "2026-07-19 23:55:00"
-    },
-    {
-      "name": "龙系粉尘",
-      "price": "500",
-      "priceRaw": "500",
-      "limit": "100",
-      "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/ac/jhbsu0fzhq55ivqu89qz81366owvkki.png/100px-100131.png",
-      "category": "炼金材料",
-      "description": "常见的炼金材料，蕴含少量龙系魔法，是合成技能石的主要触媒。",
-      "rounds": [
         4
       ],
       "start_time": 1784462400000,
