@@ -1,32 +1,15 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-20T14:26:59.199Z",
+  "fetchedAt": "2026-07-20T18:11:47.834Z",
   "timezone": "Asia/Shanghai",
-  "status": "open",
-  "round": 4,
-  "startedAtBeijing": "2026-07-20 20:00:00",
-  "nextRefreshBeijing": "2026-07-21 00:00:00",
-  "durationHours": 4,
+  "status": "closed",
+  "round": null,
+  "startedAtBeijing": null,
+  "nextRefreshBeijing": "2026-07-21 08:00:00",
+  "durationHours": 0,
   "merchantPosition": "",
   "live": true,
-  "current_items": [
-    {
-      "name": "神奇的蛋",
-      "price": "36000",
-      "priceRaw": "36000",
-      "limit": "5",
-      "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-      "category": "精灵蛋",
-      "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
-      "rounds": [
-        4
-      ],
-      "start_time": 1784548800000,
-      "end_time": 1784562900000,
-      "start_time_str": "2026-07-20 20:00:00",
-      "end_time_str": "2026-07-20 23:55:00"
-    }
-  ],
+  "current_items": [],
   "items": [
     {
       "name": "紫莲刚玉",
@@ -39,10 +22,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1784505600000,
-      "end_time": 1784519700000,
-      "start_time_str": "2026-07-20 08:00:00",
-      "end_time_str": "2026-07-20 11:55:00"
+      "start_time": 1784592000000,
+      "end_time": 1784606100000,
+      "start_time_str": "2026-07-21 08:00:00",
+      "end_time_str": "2026-07-21 11:55:00"
     },
     {
       "name": "幻系血脉秘药",
@@ -55,10 +38,10 @@
       "rounds": [
         1
       ],
-      "start_time": 1784505600000,
-      "end_time": 1784519700000,
-      "start_time_str": "2026-07-20 08:00:00",
-      "end_time_str": "2026-07-20 11:55:00"
+      "start_time": 1784592000000,
+      "end_time": 1784606100000,
+      "start_time_str": "2026-07-21 08:00:00",
+      "end_time_str": "2026-07-21 11:55:00"
     },
     {
       "name": "魔力果",
@@ -71,10 +54,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1784520000000,
-      "end_time": 1784534100000,
-      "start_time_str": "2026-07-20 12:00:00",
-      "end_time_str": "2026-07-20 15:55:00"
+      "start_time": 1784606400000,
+      "end_time": 1784620500000,
+      "start_time_str": "2026-07-21 12:00:00",
+      "end_time_str": "2026-07-21 15:55:00"
     },
     {
       "name": "幽系粉尘",
@@ -87,10 +70,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1784520000000,
-      "end_time": 1784534100000,
-      "start_time_str": "2026-07-20 12:00:00",
-      "end_time_str": "2026-07-20 15:55:00"
+      "start_time": 1784606400000,
+      "end_time": 1784620500000,
+      "start_time_str": "2026-07-21 12:00:00",
+      "end_time_str": "2026-07-21 15:55:00"
     },
     {
       "name": "冰系粉尘",
@@ -103,10 +86,10 @@
       "rounds": [
         2
       ],
-      "start_time": 1784520000000,
-      "end_time": 1784534100000,
-      "start_time_str": "2026-07-20 12:00:00",
-      "end_time_str": "2026-07-20 15:55:00"
+      "start_time": 1784606400000,
+      "end_time": 1784620500000,
+      "start_time_str": "2026-07-21 12:00:00",
+      "end_time_str": "2026-07-21 15:55:00"
     },
     {
       "name": "黄石榴石",
@@ -119,10 +102,10 @@
       "rounds": [
         3
       ],
-      "start_time": 1784534400000,
-      "end_time": 1784548500000,
-      "start_time_str": "2026-07-20 16:00:00",
-      "end_time_str": "2026-07-20 19:55:00"
+      "start_time": 1784620800000,
+      "end_time": 1784634900000,
+      "start_time_str": "2026-07-21 16:00:00",
+      "end_time_str": "2026-07-21 19:55:00"
     },
     {
       "name": "毒系粉尘",
@@ -135,10 +118,10 @@
       "rounds": [
         3
       ],
-      "start_time": 1784534400000,
-      "end_time": 1784548500000,
-      "start_time_str": "2026-07-20 16:00:00",
-      "end_time_str": "2026-07-20 19:55:00"
+      "start_time": 1784620800000,
+      "end_time": 1784634900000,
+      "start_time_str": "2026-07-21 16:00:00",
+      "end_time_str": "2026-07-21 19:55:00"
     },
     {
       "name": "神奇的蛋",
@@ -151,10 +134,10 @@
       "rounds": [
         4
       ],
-      "start_time": 1784548800000,
-      "end_time": 1784562900000,
-      "start_time_str": "2026-07-20 20:00:00",
-      "end_time_str": "2026-07-20 23:55:00"
+      "start_time": 1784635200000,
+      "end_time": 1784649300000,
+      "start_time_str": "2026-07-21 20:00:00",
+      "end_time_str": "2026-07-21 23:55:00"
     }
   ]
 }
