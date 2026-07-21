@@ -1,80 +1,43 @@
 {
   "sourceUrl": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1&immgj=0",
-  "fetchedAt": "2026-07-20T21:18:37.617Z",
+  "fetchedAt": "2026-07-21T10:32:03.213Z",
   "timezone": "Asia/Shanghai",
-  "status": "closed",
-  "round": null,
-  "startedAtBeijing": null,
-  "nextRefreshBeijing": "2026-07-21 08:00:00",
-  "durationHours": 0,
+  "status": "open",
+  "round": 3,
+  "startedAtBeijing": "2026-07-21 16:00:00",
+  "nextRefreshBeijing": "2026-07-21 20:00:00",
+  "durationHours": 4,
   "merchantPosition": "",
-  "items": [],
+  "items": [
+    {
+      "name": "魔力果",
+      "price": "6000",
+      "priceRaw": "6000",
+      "limit": "20",
+      "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
+      "category": "精灵喂养材料",
+      "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
+      "rounds": [
+        3
+      ]
+    }
+  ],
   "rounds": {
     "1": [
       {
-        "name": "紫莲刚玉",
+        "name": "黑晶琉璃",
         "price": "1000",
         "priceRaw": "1000",
         "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png",
         "category": "炼金材料",
-        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 紫雀花王朝的贵族相信这是复活与不朽的象征，常常将紫莲刚玉制作成护身符随身携带。",
-        "rounds": [
-          1
-        ]
-      },
-      {
-        "name": "幻系血脉秘药",
-        "price": "160000",
-        "priceRaw": "16w",
-        "limit": "3",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/f/f5/osnobm6foxcvyf5t5304fz3ozr2w8cp.png/100px-Xuemai_huan.png",
-        "category": "血脉修改道具",
-        "description": "能唤醒血脉力量的远古秘药，使精灵获得幻系血脉。 “一段失落的秘密将被重拾。”",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 “我的阿米亚特说这玩意儿太香了，嚼起来有些呛口，像火山灰，有纯正的拉布朗矿山味道。”",
         "rounds": [
           1
         ]
       }
     ],
     "2": [
-      {
-        "name": "魔力果",
-        "price": "6000",
-        "priceRaw": "6000",
-        "limit": "20",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
-        "category": "精灵喂养材料",
-        "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
-        "rounds": [
-          2
-        ]
-      },
-      {
-        "name": "幽系粉尘",
-        "price": "500",
-        "priceRaw": "500",
-        "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/2/20/okbnyp4feg52iaxuijvjzv6wodaqjmi.png/100px-100126.png",
-        "category": "炼金材料",
-        "description": "常见的炼金材料，蕴含少量幽系魔法，是合成技能石的主要触媒。",
-        "rounds": [
-          2
-        ]
-      },
-      {
-        "name": "冰系粉尘",
-        "price": "500",
-        "priceRaw": "500",
-        "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png",
-        "category": "炼金材料",
-        "description": "常见的炼金材料，蕴含少量冰系魔法，是合成技能石的主要触媒。",
-        "rounds": [
-          2
-        ]
-      }
-    ],
-    "3": [
       {
         "name": "黄石榴石",
         "price": "1000",
@@ -84,36 +47,37 @@
         "category": "炼金材料",
         "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 特殊的晶体排列解构，精灵打喷嚏可能会令这种晶体发生爆炸。",
         "rounds": [
-          3
+          2
         ]
       },
       {
-        "name": "毒系粉尘",
-        "price": "500",
-        "priceRaw": "500",
+        "name": "蓝晶碧玺",
+        "price": "1000",
+        "priceRaw": "1000",
         "limit": "100",
-        "image": "https://patchwiki.biligame.com/images/rocom/thumb/4/41/qgthc06nxeq4r9tzejgwwox7qtqp86w.png/100px-100133.png",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png",
         "category": "炼金材料",
-        "description": "常见的炼金材料，蕴含少量毒系魔法，是合成技能石的主要触媒。",
+        "description": "比较常用的炼金材料，可以用来合成咕噜球和技能石。 某些晶石蜗会产出珍贵的粉蓝色碧玺，为此商人翻着花样研究晶石蜗的食谱喜好。",
+        "rounds": [
+          2
+        ]
+      }
+    ],
+    "3": [
+      {
+        "name": "魔力果",
+        "price": "6000",
+        "priceRaw": "6000",
+        "limit": "20",
+        "image": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png",
+        "category": "精灵喂养材料",
+        "description": "不太常见的果实，精灵食用后获得能力提升。 “精灵食物营养科的研究总是不见进展，这么多年了精灵还在吃果子。”",
         "rounds": [
           3
         ]
       }
     ],
-    "4": [
-      {
-        "name": "神奇的蛋",
-        "price": "36000",
-        "priceRaw": "36000",
-        "limit": "5",
-        "image": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png",
-        "category": "精灵蛋",
-        "description": "蕴含着难以捉摸的魔力，不知道可以孵化出哪种精灵。",
-        "rounds": [
-          4
-        ]
-      }
-    ]
+    "4": []
   },
   "live": true
 }
